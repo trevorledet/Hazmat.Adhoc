@@ -1,0 +1,916 @@
+2025-03-16T07:44:12.4016195-05:00  [WRN] Worker running at: 03/16/2025 07:44:12 -05:00 (73d86d1a)
+2025-03-16T07:52:04.7591505-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T07:52:04.7593118-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T07:52:04.7593361-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T07:54:28.2658603-05:00  [WRN] Changed or new hazmat item found in import: "Id: 62529579-d056-4a19-855e-d3e42dce85db
+IdforFireestore: 62529579-d056-4a19-855e-d3e42dce85db
+Symbols: 
+ProperShippingNames: <i>Accellerene, see</i> p-Nitrosodimethylaniline, 
+Description: <i>Accellerene, see</i> p-Nitrosodimethylaniline
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T07:54:46.7794078-05:00  [WRN] Changed or new hazmat item found in import: "Id: d9f818c0-c195-4f59-9b78-af68be9c01a2
+IdforFireestore: d9f818c0-c195-4f59-9b78-af68be9c01a2
+Symbols: 
+ProperShippingNames: <i>Accumulators, electric, see</i> Batteries, wet <i>etc</i>, 
+Description: <i>Accumulators, electric, see</i> Batteries, wet <i>etc</i>
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T07:55:47.0647782-05:00  [WRN] Changed or new hazmat item found in import: "Id: 13192efa-23e7-4a2e-b219-a138c59333dd
+IdforFireestore: 13192efa-23e7-4a2e-b219-a138c59333dd
+Symbols: 
+ProperShippingNames: <i>Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), see</i> Articles pressurized, pneumatic <i>or</i> hydraulic (containing non-flamable gas), Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), 
+Description: <i>Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), see</i> Articles pressurized, pneumatic <i>or</i> hydraulic (containing non-flamable gas)
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T07:56:11.5636200-05:00  [WRN] New hazmat item not found in database: "Id: e73c6aba-870d-478c-8e86-efc966c8a633
+IdforFireestore: e73c6aba-870d-478c-8e86-efc966c8a633
+Symbols: 
+ProperShippingNames: Acetal, 
+Description: Acetal
+Class: 3
+UNId: UN1088
+PackageGroup: II
+LabelCodes: 3, 
+SpecialProvisions: IB2, T4, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: E
+VesselStowageOther: , " (0314e6fc)
+2025-03-16T07:57:33.6324783-05:00  [WRN] Worker running at: 03/16/2025 07:57:33 -05:00 (73d86d1a)
+2025-03-16T07:57:40.3821992-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T07:57:40.3823764-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T07:57:40.3823955-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T08:03:31.7047901-05:00  [WRN] Worker running at: 03/16/2025 08:03:31 -05:00 (73d86d1a)
+2025-03-16T08:03:42.2182084-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T08:03:42.2183713-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T08:03:42.2183934-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T08:05:39.1626362-05:00  [WRN] Worker running at: 03/16/2025 08:05:39 -05:00 (73d86d1a)
+2025-03-16T08:05:39.3449447-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T08:05:39.3450694-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T08:05:39.3450854-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T08:05:42.4136723-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl acetone peroxide with more than 9 percent by mass active oxygen</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:42.7478306-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl benzoyl peroxide, solid, or with more than 40 percent in solution</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:43.2786694-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl cyclohexanesulfonyl peroxide, with more than 82 percent wetted with less than 12 percent water</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:43.8071038-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl peroxide, solid, or with more than 25 percent in solution</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:44.1241031-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetylene (liquefied)</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:44.3159978-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetylene silver nitrate</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:44.5136883-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetylene, solvent free</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:05:50.4766961-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T08:06:00.0239616-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T08:06:01.3416727-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Aluminum dross, wet or hot</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:06:06.5461567-05:00  [WRN] Changed or new hazmat item found in import: "Id: ca0ba823-4b74-4172-9336-3dcef9a6134a
+IdforFireestore: ca0ba823-4b74-4172-9336-3dcef9a6134a
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Ammonium azide</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-16T08:53:49.2035506-05:00  [WRN] Worker running at: 03/16/2025 08:53:49 -05:00 (73d86d1a)
+2025-03-16T08:53:55.8495972-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T08:53:55.8498076-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T08:53:55.8498311-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T08:53:56.8307514-05:00  [WRN] New hazmat item not found in database: "Id: 7b3c2b0a-bc69-4125-be72-a1ed141bcd3e
+IdforFireestore: 7b3c2b0a-bc69-4125-be72-a1ed141bcd3e
+Symbols: 
+ProperShippingNames: Accellerene, 
+Description: <i>Accellerene, see</i> p-Nitrosodimethylaniline
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (0314e6fc)
+2025-03-16T08:54:02.7075502-05:00  [WRN] New hazmat item not found in database: "Id: 964e9cb7-0bf9-4549-85c4-8a681b749c21
+IdforFireestore: 964e9cb7-0bf9-4549-85c4-8a681b749c21
+Symbols: 
+ProperShippingNames: Accumulators, electric, 
+Description: <i>Accumulators, electric, see</i> Batteries, wet <i>etc</i>
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (0314e6fc)
+2025-03-16T08:54:06.6171286-05:00  [WRN] New hazmat item not found in database: "Id: e3b64452-90b4-4d9f-9d7a-941ffcce9ce6
+IdforFireestore: e3b64452-90b4-4d9f-9d7a-941ffcce9ce6
+Symbols: 
+ProperShippingNames: <E T=\"03\">Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), see</E> Articles pressurized, pneumatic <E T=\"03\">or</E> hydraulic (containing non-flamable gas), 
+Description: <i>Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), see</i> Articles pressurized, pneumatic <i>or</i> hydraulic (containing non-flamable gas)
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (0314e6fc)
+2025-03-16T08:57:43.4175744-05:00  [WRN] Changed or new hazmat item found in import: "Id: a0911966-e369-4738-bf2f-64fc16d16ccd
+IdforFireestore: a0911966-e369-4738-bf2f-64fc16d16ccd
+Symbols: 
+ProperShippingNames: Acetic acid, glacial <E T=\"03\">or</E> Acetic acid solution, <E T=\"03\">with more than 80 percent acid, by mass</E>, 
+Description: Acetic acid, glacial <i>or</i> Acetic acid solution, <i>with more than 80 percent acid, by mass</i>
+Class: 8
+UNId: UN2789
+PackageGroup: II
+LabelCodes: 8, 3, 
+SpecialProvisions: A3, A7, A10, B2, IB2, T7, TP2, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: 53, 58, " (3afbc302)
+2025-03-16T09:02:53.6870308-05:00  [WRN] Worker running at: 03/16/2025 09:02:53 -05:00 (73d86d1a)
+2025-03-16T09:02:53.6911389-05:00  [WRN] Clearing Hazmat Items (83b89045)
+2025-03-16T09:02:53.7388983-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:02:53.7389682-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:02:53.7389834-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T09:08:55.5032393-05:00  [WRN] Worker running at: 03/16/2025 09:08:55 -05:00 (73d86d1a)
+2025-03-16T09:08:55.6841932-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:08:55.6842974-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:08:55.6843134-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T09:09:05.6275785-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T09:09:14.7725574-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T09:09:24.5113255-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T09:09:33.7473889-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T09:09:42.8820921-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T09:09:52.0652776-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T09:10:01.2796885-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T09:10:21.2441085-05:00  [WRN] Worker running at: 03/16/2025 09:10:21 -05:00 (73d86d1a)
+2025-03-16T09:11:16.4840054-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:11:16.4842597-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:11:16.4842923-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T09:21:36.2868557-05:00  [WRN] Worker running at: 03/16/2025 09:21:36 -05:00 (73d86d1a)
+2025-03-16T09:21:57.6581302-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:21:57.6583078-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:21:57.6583283-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T09:24:55.6817915-05:00  [WRN] Worker running at: 03/16/2025 09:24:55 -05:00 (73d86d1a)
+2025-03-16T09:24:55.8787917-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:24:55.8789035-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:24:55.8789550-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T09:25:05.9438861-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T09:25:15.0462485-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T09:25:24.6147022-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T09:25:33.7665486-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T09:25:42.8791831-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T09:25:51.9738478-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T09:26:01.0642142-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T09:26:10.3381194-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T09:26:19.4861955-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T09:26:28.6896446-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T09:26:37.8207360-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T09:26:46.9946465-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T09:26:56.1233866-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T09:27:05.2870007-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T09:27:14.4840661-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T09:27:23.7573394-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T09:27:32.9666114-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T09:27:42.1448132-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T09:27:51.3484947-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T09:28:00.5567661-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T09:28:09.7277522-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T09:28:18.8975478-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T09:28:28.0300893-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T09:28:37.1475313-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T09:28:46.2834229-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T09:28:55.4643003-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T09:29:04.7187807-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T09:29:13.8812758-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T09:29:23.0478464-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T09:29:32.2332375-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T09:29:41.3686261-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T09:29:50.5321923-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T09:29:59.6967992-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T09:30:08.8562473-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T09:30:18.0353790-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T09:30:27.2356419-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T09:30:36.3656941-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T09:30:45.5278908-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T09:30:54.6373457-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T09:31:03.7304325-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T09:31:12.8673865-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T09:31:22.0448733-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T09:31:31.2300117-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T09:31:40.4227901-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T09:31:49.5398955-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T09:31:58.7011178-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T09:32:07.8439475-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T09:32:17.0372164-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T09:32:26.3214209-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T09:32:35.4713164-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T09:32:44.6031524-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T09:32:53.7565968-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T09:32:59.2177713-05:00  [WRN] Mode "Load" completed, processed 3687 hazmat items (5ff68f0e)
+2025-03-16T09:33:09.9883712-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T09:33:59.8403243-05:00  [WRN] Worker running at: 03/16/2025 09:33:59 -05:00 (73d86d1a)
+2025-03-16T09:34:00.0329233-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:34:00.0330784-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:34:00.0330944-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T09:34:10.2457758-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T09:34:19.3966439-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T09:34:28.9751648-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T09:34:38.1238477-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T09:34:47.2655287-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T09:34:56.7516684-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T09:35:06.2307311-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T09:35:15.3485676-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T09:35:24.4959348-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T09:35:33.6510114-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T09:35:43.7356792-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T09:35:52.8689695-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T09:36:02.0903944-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T09:36:11.3174438-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T09:36:20.4727654-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T09:36:29.6912593-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T09:36:38.7485297-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T09:36:47.8498265-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T09:36:56.9361698-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T09:37:06.0288030-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T09:37:15.1107059-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T09:37:24.2634340-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T09:37:33.6053837-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T09:37:42.8730327-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T09:37:51.8343060-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T09:38:00.9564692-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T09:38:09.9980129-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T09:38:19.3235214-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T09:38:28.4295614-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T09:38:37.5592481-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T09:38:46.6245284-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T09:38:55.6058414-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T09:39:04.7263340-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T09:39:13.7234100-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T09:39:22.7292102-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T09:39:31.8133114-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T09:39:40.9039982-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T09:39:50.2446113-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T09:39:59.2719274-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T09:40:08.2775784-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T09:40:17.4073238-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T09:40:26.5775467-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T09:40:35.6590454-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T09:40:44.7915974-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T09:40:53.8783649-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T09:41:02.9065395-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T09:41:11.9895533-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T09:41:21.0496642-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T09:41:30.1559124-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T09:41:39.2437794-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T09:41:48.3193821-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T09:41:57.4571461-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T09:42:02.8647119-05:00  [WRN] Mode "Identify" completed, processed 3687 hazmat items (5ff68f0e)
+2025-03-16T09:44:46.4316092-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T09:45:51.1081993-05:00  [WRN] Worker running at: 03/16/2025 09:45:51 -05:00 (73d86d1a)
+2025-03-16T09:45:51.1124144-05:00  [WRN] Clearing Hazmat Items (83b89045)
+2025-03-16T09:45:51.1607426-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T09:45:51.1608192-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T09:45:51.1608401-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:05:35.2047012-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T10:07:13.1132359-05:00  [WRN] Worker running at: 03/16/2025 10:07:13 -05:00 (73d86d1a)
+2025-03-16T10:07:13.3048813-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:07:13.3049922-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:07:13.3050538-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:07:23.4767599-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T10:07:33.2356734-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T10:07:42.5113218-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T10:07:51.8057973-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T10:08:01.0213409-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T10:08:10.2416665-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T10:08:19.4182435-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T10:08:28.6466788-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T10:08:38.1234960-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T10:08:47.3216637-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T10:08:56.5647213-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T10:09:05.7894318-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T10:09:14.9614652-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T10:09:24.1058512-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T10:09:33.2760379-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T10:09:42.4409096-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T10:09:51.5806274-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T10:10:00.7662976-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T10:10:09.9562859-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T10:10:19.1397006-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T10:10:28.2571958-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T10:10:37.4224024-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T10:10:46.5818734-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T10:10:55.6803120-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T10:11:04.8686362-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T10:11:13.9240225-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T10:11:23.0901260-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T10:11:32.2492059-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T10:11:41.4801039-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T10:11:50.6616959-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T10:11:59.7942721-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T10:12:08.8797148-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T10:12:18.0242854-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T10:12:27.1280549-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T10:12:36.2957783-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T10:12:45.5161768-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T10:12:54.9778557-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T10:13:04.1306391-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T10:13:13.3425799-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T10:13:22.6422523-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T10:13:31.7823491-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T10:13:40.9605827-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T10:13:50.1422349-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T10:13:59.2998276-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T10:14:08.4625997-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T10:14:17.6333685-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T10:14:26.8260948-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T10:14:36.0538017-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T10:14:45.3202822-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T10:14:54.5052676-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T10:15:03.7074176-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T10:15:12.8925209-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T10:15:18.2643244-05:00  [WRN] Mode "Load" completed, processed 3686 hazmat items (5ff68f0e)
+2025-03-16T10:16:09.9382186-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T10:17:18.5440365-05:00  [WRN] Worker running at: 03/16/2025 10:17:18 -05:00 (73d86d1a)
+2025-03-16T10:17:18.7373822-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:17:18.7375072-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:17:18.7375230-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:17:29.3425333-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T10:17:38.9349268-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T10:20:05.9665547-05:00  [WRN] Worker running at: 03/16/2025 10:20:05 -05:00 (73d86d1a)
+2025-03-16T10:20:05.9709296-05:00  [WRN] Mode "Identify" Starting (832b79d6)
+2025-03-16T10:20:06.1591889-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:20:06.1592535-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:20:06.1592685-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:20:16.4238868-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T10:20:25.8027587-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T10:20:34.9193741-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T10:20:35.7200575-05:00  [WRN] New hazmat item not found in database: "Id: fc1ba5a9-9e58-483f-a325-3313ab2c82bf
+IdforFireestore: fc1ba5a9-9e58-483f-a325-3313ab2c82bf
+Symbols: 
+ProperShippingNames: Ammonium nitrate-fuel oil mixture, 
+Description: Ammonium nitrate-fuel oil mixture <i>containing only prilled ammonium nitrate and fuel oil</i>
+Class: 1.5D
+UNId: NA0331
+PackageGroup: 
+LabelCodes: 1.5D, 
+SpecialProvisions: 148, 
+PackagingExceptions: None, 
+PackagingNonBulk: 62, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 03
+VesselStowageOther: 25, 19E, " (0314e6fc)
+2025-03-16T10:20:35.8389656-05:00  [WRN] Changed or new hazmat item found in import: "Id: 659fb8bb-980e-4396-88d2-e7d71f4d71f3
+IdforFireestore: 659fb8bb-980e-4396-88d2-e7d71f4d71f3
+Symbols: 
+ProperShippingNames: Ammonium nitrate, liquid, 
+Description: Ammonium nitrate, liquid <i>(Updated hot concentrated solution)</i>
+Class: 5.1
+UNId: UN2426
+PackageGroup: 
+LabelCodes: 5.1, 
+SpecialProvisions: 148, B5, T7, 
+PackagingExceptions: None, 
+PackagingNonBulk: None, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 59, 60, 124, " (3afbc302)
+2025-03-16T10:20:44.0829586-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T10:20:53.1961892-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T10:21:02.6772245-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T10:21:12.4221275-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T10:21:21.6152341-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T10:21:30.7446483-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T10:21:39.9092664-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T10:21:49.8006501-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T10:21:59.0378333-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T10:22:08.2770552-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T10:22:17.5454198-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T10:22:26.7230248-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T10:22:35.9166737-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T10:22:44.9557971-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T10:22:54.0779875-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T10:23:03.1691484-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T10:23:12.3817048-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T10:23:21.5371024-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T10:23:30.6686321-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T10:23:39.9716125-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T10:23:49.3692891-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T10:23:58.4326130-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T10:24:07.6846967-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T10:24:16.7388214-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T10:24:26.0689533-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T10:24:35.1946278-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T10:24:44.3546795-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T10:24:53.4445257-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T10:25:02.4475722-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T10:25:11.6318164-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T10:25:21.0944466-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T10:25:30.2403355-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T10:25:39.4168411-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T10:25:48.5912321-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T10:25:57.9013327-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T10:26:06.9268705-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T10:26:15.9894255-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T10:26:25.1226694-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T10:26:34.2392365-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T10:26:43.3388283-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T10:26:52.4721420-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T10:27:01.5567154-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T10:27:10.6254876-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T10:27:19.7326779-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T10:27:28.8391704-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T10:27:37.9042360-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T10:27:47.0276065-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T10:27:56.1121380-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T10:28:05.2724275-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T10:28:10.7048414-05:00  [WRN] Mode "Identify" completed, processed 3687 hazmat items (5ff68f0e)
+2025-03-16T10:30:28.6366697-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T10:31:11.0575661-05:00  [WRN] Worker running at: 03/16/2025 10:31:11 -05:00 (73d86d1a)
+2025-03-16T10:31:11.0617232-05:00  [WRN] Mode "Update" Starting (832b79d6)
+2025-03-16T10:31:12.2262779-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T10:31:13.2771553-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T10:31:14.3557591-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T10:31:14.4349655-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:31:14.4350373-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:31:14.4350822-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:31:15.2277028-05:00  [WRN] Added hazmat item: 4d20de2f-bcf0-40e9-a1ff-25baadf171cb, "NA0331", "" (0e67a72b)
+2025-03-16T10:31:15.5925527-05:00  [WRN] Updated hazmat item: 659fb8bb-980e-4396-88d2-e7d71f4d71f3, "UN2426", "" (df6ba49f)
+2025-03-16T10:31:16.6202546-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T10:31:17.7023665-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T10:31:18.7527009-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T10:31:19.8021248-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T10:31:20.8527780-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T10:31:21.9026251-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T10:31:22.9690968-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T10:31:24.0198040-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T10:31:25.0538286-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T10:31:26.1036200-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T10:31:27.1423543-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T10:31:28.1772160-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T10:31:29.2134799-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T10:31:30.2789146-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T10:31:31.3251224-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T10:31:32.3629252-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T10:31:33.3947236-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T10:31:34.4311782-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T10:31:35.4743182-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T10:31:36.5008879-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T10:31:37.5129180-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T10:31:38.5325359-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T10:31:39.5512968-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T10:31:40.6001344-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T10:31:41.6348181-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T10:31:42.6613338-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T10:31:43.6871388-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T10:31:44.7499300-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T10:31:45.7701513-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T10:31:46.7860794-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T10:31:47.8107486-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T10:31:48.8274720-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T10:31:49.8513808-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T10:31:50.8706541-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T10:31:51.8874186-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T10:31:52.8990566-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T10:31:53.9116060-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T10:31:54.9246705-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T10:31:55.9344998-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T10:31:56.9623024-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T10:31:57.9692289-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T10:31:58.9852291-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T10:31:59.9934134-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T10:32:00.9989398-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T10:32:02.0046536-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T10:32:03.0202697-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T10:32:04.0301954-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T10:32:05.0479066-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T10:32:06.0527101-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T10:32:06.0560718-05:00  [WRN] Mode "Update" completed, processed 3687 hazmat items (5ff68f0e)
+2025-03-16T10:32:09.2280162-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T10:34:28.1395734-05:00  [WRN] Worker running at: 03/16/2025 10:34:28 -05:00 (73d86d1a)
+2025-03-16T10:34:28.1440238-05:00  [WRN] Clearing Hazmat Items (83b89045)
+2025-03-16T10:34:28.8537485-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:34:28.8538224-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:34:28.8538699-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:39:49.2150769-05:00  [WRN] Clearing Hazmat Items complete (660b4d57)
+2025-03-16T10:40:01.9049131-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T10:40:40.3083916-05:00  [WRN] Worker running at: 03/16/2025 10:40:40 -05:00 (73d86d1a)
+2025-03-16T10:40:40.3125804-05:00  [WRN] Mode "Load" Starting (832b79d6)
+2025-03-16T10:40:41.0614605-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:40:41.0615340-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:40:41.0615691-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:40:48.9381435-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T10:40:55.2873950-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T10:41:01.6426702-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T10:41:07.9171869-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T10:41:14.3176950-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T10:41:20.6945186-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T10:41:27.1072659-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T10:41:33.4661806-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T10:41:39.8455240-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T10:41:46.2364313-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T10:41:52.5652131-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T10:41:58.9467190-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T10:42:05.2818362-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T10:42:11.6507370-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T10:42:18.0982582-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T10:42:24.5190332-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T10:42:30.8661006-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T10:42:37.3125182-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T10:42:43.6881460-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T10:42:50.1066993-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T10:42:56.4868960-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T10:43:02.8352032-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T10:43:09.1379550-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T10:43:15.3779477-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T10:43:21.7497012-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T10:43:28.1320518-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T10:43:34.5233195-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T10:43:40.9376302-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T10:43:47.3635484-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T10:43:53.7392241-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T10:44:00.0588851-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T10:44:06.3539613-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T10:44:12.5713260-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T10:44:18.6170078-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T10:44:24.7611129-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T10:44:31.1300324-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T10:44:37.4635288-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T10:44:43.9971951-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T10:44:50.3095794-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T10:44:56.6353542-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T10:45:02.9757794-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T10:45:09.3304403-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T10:45:15.7125793-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T10:45:22.0678435-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T10:45:28.4724088-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T10:45:34.8799832-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T10:45:41.2633316-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T10:45:47.6206698-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T10:45:53.7035239-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T10:45:59.9802400-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T10:46:06.2682202-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T10:46:12.5524178-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T10:46:16.0743746-05:00  [WRN] Mode "Load" completed, processed 3686 hazmat items (5ff68f0e)
+2025-03-16T10:51:57.8714908-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T10:52:37.1551261-05:00  [WRN] Worker running at: 03/16/2025 10:52:37 -05:00 (73d86d1a)
+2025-03-16T10:52:37.1593111-05:00  [WRN] Mode "Identify" Starting (832b79d6)
+2025-03-16T10:52:37.9003632-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T10:52:37.9004328-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T10:52:37.9004559-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T10:52:46.4639506-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T10:52:52.1547278-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T10:52:57.8300099-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T10:52:58.2978908-05:00  [WRN] New hazmat item not found in database: "Id: ead07c69-23c9-46e6-9abd-56dedd9e0779
+IdforFireestore: ead07c69-23c9-46e6-9abd-56dedd9e0779
+Symbols: 
+ProperShippingNames: Ammonium nitrate-fuel oil mixture, 
+Description: Ammonium nitrate-fuel oil mixture <i>containing only prilled ammonium nitrate and fuel oil</i>
+Class: 1.5D
+UNId: NA0331
+PackageGroup: 
+LabelCodes: 1.5D, 
+SpecialProvisions: 148, 
+PackagingExceptions: None, 
+PackagingNonBulk: 62, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 03
+VesselStowageOther: 25, 19E, " (0314e6fc)
+2025-03-16T10:52:58.3635272-05:00  [WRN] Changed or new hazmat item found in import: "Id: 322f7ea1-5ca6-49f5-a4e3-04e0432d4d2b
+IdforFireestore: 322f7ea1-5ca6-49f5-a4e3-04e0432d4d2b
+Symbols: 
+ProperShippingNames: Ammonium nitrate, liquid, 
+Description: Ammonium nitrate, liquid <i>(Updated hot concentrated solution)</i>
+Class: 5.1
+UNId: UN2426
+PackageGroup: 
+LabelCodes: 5.1, 
+SpecialProvisions: 148, B5, T7, 
+PackagingExceptions: None, 
+PackagingNonBulk: None, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 59, 60, 124, " (3afbc302)
+2025-03-16T10:53:03.4930158-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T10:53:09.1495612-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T10:53:14.9847923-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T10:53:20.9815664-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T10:53:26.6522338-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T10:53:32.3025473-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T10:53:37.9847306-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T10:53:44.1286453-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T10:53:49.8031916-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T10:53:55.6703805-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T10:54:01.2828655-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T10:54:06.9210485-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T10:54:12.6558257-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T10:54:18.3152962-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T10:54:23.9901513-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T10:54:29.6467018-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T10:54:35.3099332-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T10:54:41.2664406-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T10:54:46.9291970-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T10:54:52.8127722-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T10:54:58.8163375-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T10:55:04.4759468-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T10:55:10.2892357-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T10:55:15.9631238-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T10:55:21.8337157-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T10:55:27.5116163-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T10:55:33.2643539-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T10:55:38.9401957-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T10:55:44.5962016-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T10:55:50.3361973-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T10:55:55.9821742-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T10:56:01.5993848-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T10:56:07.2458391-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T10:56:12.8879852-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T10:56:18.7969980-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T10:56:24.4227558-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T10:56:30.0994895-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T10:56:35.7642425-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T10:56:41.5656329-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T10:56:47.2543257-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T10:56:52.9122888-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T10:56:58.5961932-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T10:57:04.3139194-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T10:57:10.0545302-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T10:57:15.7415021-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T10:57:21.3809137-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T10:57:27.0759292-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T10:57:32.7549857-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T10:57:38.4310648-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T10:57:41.5835765-05:00  [WRN] Mode "Identify" completed, processed 3687 hazmat items (5ff68f0e)
+2025-03-16T11:37:24.9223296-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-16T11:37:54.4945393-05:00  [WRN] Worker running at: 03/16/2025 11:37:54 -05:00 (73d86d1a)
+2025-03-16T11:37:54.5055528-05:00  [WRN] Mode "Update" Starting (832b79d6)
+2025-03-16T11:37:56.0097941-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-16T11:37:57.0468744-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-16T11:37:58.1128777-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-16T11:37:58.5408145-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-16T11:37:58.5408983-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-16T11:37:58.5409681-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-16T11:38:00.1840498-05:00  [WRN] Added hazmat item: 6b728b89-4659-400e-8d68-9dec2b0e088d, "NA0331", "" (0e67a72b)
+2025-03-16T11:38:00.9520635-05:00  [WRN] Updated hazmat item: 322f7ea1-5ca6-49f5-a4e3-04e0432d4d2b, "UN2426", "" (df6ba49f)
+2025-03-16T11:38:01.9952065-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-16T11:38:03.0751962-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-16T11:38:04.1397054-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-16T11:38:05.2067864-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-16T11:38:06.2738430-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-16T11:38:07.3233968-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-16T11:38:08.3670108-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-16T11:38:09.4180358-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-16T11:38:10.4593977-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-16T11:38:11.5194593-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-16T11:38:12.5616460-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-16T11:38:13.6243436-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-16T11:38:14.6688074-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-16T11:38:15.7114002-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-16T11:38:16.7437657-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-16T11:38:17.7780312-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-16T11:38:18.8456833-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-16T11:38:19.9110133-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-16T11:38:20.9290112-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-16T11:38:21.9470082-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-16T11:38:22.9557980-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-16T11:38:23.9735333-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-16T11:38:24.9902060-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-16T11:38:26.0205713-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-16T11:38:27.0470096-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-16T11:38:28.0789237-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-16T11:38:29.1017875-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-16T11:38:30.1713588-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-16T11:38:31.2070387-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-16T11:38:32.2253138-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-16T11:38:33.2495718-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-16T11:38:34.2603708-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-16T11:38:35.2785894-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-16T11:38:36.2938488-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-16T11:38:37.3129356-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-16T11:38:38.3292899-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-16T11:38:39.3364106-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-16T11:38:40.3477401-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-16T11:38:41.3596517-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-16T11:38:42.3751434-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-16T11:38:43.3994914-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-16T11:38:44.4224289-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-16T11:38:45.4414195-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-16T11:38:46.4579677-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-16T11:38:47.4785293-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-16T11:38:48.4952636-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-16T11:38:49.5123030-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-16T11:38:50.5199623-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-16T11:38:51.5319790-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-16T11:38:51.5353968-05:00  [WRN] Mode "Update" completed, processed 3687 hazmat items (5ff68f0e)
+2025-03-16T11:38:54.8761035-05:00  [INF] Application is shutting down... (90f52c38)

@@ -1,0 +1,1295 @@
+2025-03-15T14:51:12.0614368-05:00  [WRN] Worker running at: 03/15/2025 14:51:12 -05:00 (73d86d1a)
+2025-03-15T14:51:12.2818486-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-15T14:51:12.2819667-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-15T14:51:12.2820220-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-15T14:51:23.5842969-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-15T14:51:33.4015428-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-15T14:51:43.4148526-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-15T14:59:37.0118752-05:00  [WRN] Worker running at: 03/15/2025 14:59:36 -05:00 (73d86d1a)
+2025-03-15T14:59:37.1900214-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-15T14:59:37.1901399-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-15T14:59:37.1901542-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-15T14:59:48.0555397-05:00  [WRN] Processing 70 hazmat item (7bf84216)
+2025-03-15T14:59:58.3435879-05:00  [WRN] Processing 140 hazmat item (7bf84216)
+2025-03-15T15:00:08.2898575-05:00  [WRN] Processing 210 hazmat item (7bf84216)
+2025-03-15T15:00:18.2137692-05:00  [WRN] Processing 280 hazmat item (7bf84216)
+2025-03-15T15:00:28.1768267-05:00  [WRN] Processing 350 hazmat item (7bf84216)
+2025-03-15T15:00:38.1087701-05:00  [WRN] Processing 420 hazmat item (7bf84216)
+2025-03-15T15:00:48.0531419-05:00  [WRN] Processing 490 hazmat item (7bf84216)
+2025-03-15T15:00:57.9621373-05:00  [WRN] Processing 560 hazmat item (7bf84216)
+2025-03-15T15:01:07.8785578-05:00  [WRN] Processing 630 hazmat item (7bf84216)
+2025-03-15T15:01:17.7974903-05:00  [WRN] Processing 700 hazmat item (7bf84216)
+2025-03-15T15:01:27.6690749-05:00  [WRN] Processing 770 hazmat item (7bf84216)
+2025-03-15T15:01:37.6151164-05:00  [WRN] Processing 840 hazmat item (7bf84216)
+2025-03-15T15:01:47.5777067-05:00  [WRN] Processing 910 hazmat item (7bf84216)
+2025-03-15T15:01:57.9686848-05:00  [WRN] Processing 980 hazmat item (7bf84216)
+2025-03-15T15:02:08.1805147-05:00  [WRN] Processing 1050 hazmat item (7bf84216)
+2025-03-15T15:02:18.0960876-05:00  [WRN] Processing 1120 hazmat item (7bf84216)
+2025-03-15T15:02:28.0345818-05:00  [WRN] Processing 1190 hazmat item (7bf84216)
+2025-03-15T15:02:38.1278273-05:00  [WRN] Processing 1260 hazmat item (7bf84216)
+2025-03-15T15:02:48.0432814-05:00  [WRN] Processing 1330 hazmat item (7bf84216)
+2025-03-15T15:02:57.9343796-05:00  [WRN] Processing 1400 hazmat item (7bf84216)
+2025-03-15T15:03:07.8162397-05:00  [WRN] Processing 1470 hazmat item (7bf84216)
+2025-03-15T15:03:17.7365945-05:00  [WRN] Processing 1540 hazmat item (7bf84216)
+2025-03-15T15:03:27.6453208-05:00  [WRN] Processing 1610 hazmat item (7bf84216)
+2025-03-15T15:03:37.5331993-05:00  [WRN] Processing 1680 hazmat item (7bf84216)
+2025-03-15T15:03:47.3330146-05:00  [WRN] Processing 1750 hazmat item (7bf84216)
+2025-03-15T15:03:57.2013138-05:00  [WRN] Processing 1820 hazmat item (7bf84216)
+2025-03-15T15:04:07.1147627-05:00  [WRN] Processing 1890 hazmat item (7bf84216)
+2025-03-15T15:04:17.0161003-05:00  [WRN] Processing 1960 hazmat item (7bf84216)
+2025-03-15T15:04:26.8515212-05:00  [WRN] Processing 2030 hazmat item (7bf84216)
+2025-03-15T15:04:36.7384107-05:00  [WRN] Processing 2100 hazmat item (7bf84216)
+2025-03-15T15:04:46.6321576-05:00  [WRN] Processing 2170 hazmat item (7bf84216)
+2025-03-15T15:04:56.5908030-05:00  [WRN] Processing 2240 hazmat item (7bf84216)
+2025-03-15T15:05:06.4734557-05:00  [WRN] Processing 2310 hazmat item (7bf84216)
+2025-03-15T15:05:16.4912505-05:00  [WRN] Processing 2380 hazmat item (7bf84216)
+2025-03-15T15:05:26.4423720-05:00  [WRN] Processing 2450 hazmat item (7bf84216)
+2025-03-15T15:05:36.3619790-05:00  [WRN] Processing 2520 hazmat item (7bf84216)
+2025-03-15T15:05:46.2591104-05:00  [WRN] Processing 2590 hazmat item (7bf84216)
+2025-03-15T15:05:56.2216975-05:00  [WRN] Processing 2660 hazmat item (7bf84216)
+2025-03-15T15:06:06.2098029-05:00  [WRN] Processing 2730 hazmat item (7bf84216)
+2025-03-15T15:06:16.1415289-05:00  [WRN] Processing 2800 hazmat item (7bf84216)
+2025-03-15T15:06:26.0556555-05:00  [WRN] Processing 2870 hazmat item (7bf84216)
+2025-03-15T15:06:35.9782946-05:00  [WRN] Processing 2940 hazmat item (7bf84216)
+2025-03-15T15:06:45.9020099-05:00  [WRN] Processing 3010 hazmat item (7bf84216)
+2025-03-15T15:06:55.7894127-05:00  [WRN] Processing 3080 hazmat item (7bf84216)
+2025-03-15T15:07:05.7469640-05:00  [WRN] Processing 3150 hazmat item (7bf84216)
+2025-03-15T15:07:15.6821388-05:00  [WRN] Processing 3220 hazmat item (7bf84216)
+2025-03-15T15:07:25.6358153-05:00  [WRN] Processing 3290 hazmat item (7bf84216)
+2025-03-15T15:07:35.5749499-05:00  [WRN] Processing 3360 hazmat item (7bf84216)
+2025-03-15T15:07:45.5945561-05:00  [WRN] Processing 3430 hazmat item (7bf84216)
+2025-03-15T15:07:55.5313497-05:00  [WRN] Processing 3500 hazmat item (7bf84216)
+2025-03-15T15:08:05.5007282-05:00  [WRN] Processing 3570 hazmat item (7bf84216)
+2025-03-15T15:08:15.4431825-05:00  [WRN] Processing 3640 hazmat item (7bf84216)
+2025-03-15T15:08:21.3333922-05:00  [WRN] Mode "Load" completed, processed 3686 hazmat items (5ff68f0e)
+2025-03-15T15:12:54.2740564-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-15T15:17:15.2939172-05:00  [WRN] Worker running at: 03/15/2025 15:17:15 -05:00 (73d86d1a)
+2025-03-15T15:17:15.5390239-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-03-15T15:17:15.5391509-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-03-15T15:17:15.5391670-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-03-15T15:17:16.3072829-05:00  [WRN] Changed or new hazmat item found in import: "Id: 790c47e6-d21b-4842-b1e9-c30b2bc15ce4
+IdforFireestore: 790c47e6-d21b-4842-b1e9-c30b2bc15ce4
+Symbols: 
+ProperShippingNames: <i>Accellerene, see</i> p-Nitrosodimethylaniline, 
+Description: <i>Accellerene, see</i> p-Nitrosodimethylaniline
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:16.4911140-05:00  [WRN] Changed or new hazmat item found in import: "Id: 2aa02f12-07c7-4304-aa46-be2d9d6ff098
+IdforFireestore: 2aa02f12-07c7-4304-aa46-be2d9d6ff098
+Symbols: 
+ProperShippingNames: <i>Accumulators, electric, see</i> Batteries, wet <i>etc</i>, 
+Description: <i>Accumulators, electric, see</i> Batteries, wet <i>etc</i>
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:16.6965071-05:00  [WRN] Changed or new hazmat item found in import: "Id: b8b8b12a-e2a5-43d0-b123-70ca58747145
+IdforFireestore: b8b8b12a-e2a5-43d0-b123-70ca58747145
+Symbols: 
+ProperShippingNames: <i>Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), see</i> Articles pressurized, pneumatic <i>or</i> hydraulic (containing non-flamable gas), Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), 
+Description: <i>Accumulators, pressurized, pneumatic or hydraulic (containing non-flamable gas), see</i> Articles pressurized, pneumatic <i>or</i> hydraulic (containing non-flamable gas)
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:16.8460717-05:00  [WRN] New hazmat item not found in database: "Id: fe6bc294-25cf-4876-aa4e-77c20aea9038
+IdforFireestore: fe6bc294-25cf-4876-aa4e-77c20aea9038
+Symbols: 
+ProperShippingNames: Acetal, 
+Description: Acetal
+Class: 3
+UNId: UN1088
+PackageGroup: II
+LabelCodes: 3, 
+SpecialProvisions: IB2, T4, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: E
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:17.0178096-05:00  [WRN] New hazmat item not found in database: "Id: 9f31a17d-719d-47d6-8216-8236b172217a
+IdforFireestore: 9f31a17d-719d-47d6-8216-8236b172217a
+Symbols: 
+ProperShippingNames: Acetaldehyde, 
+Description: Acetaldehyde
+Class: 3
+UNId: UN1089
+PackageGroup: I
+LabelCodes: 3, 
+SpecialProvisions: B16, T11, TP2, TP7, 
+PackagingExceptions: None, 
+PackagingNonBulk: 201, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: E
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:17.1654417-05:00  [WRN] New hazmat item not found in database: "Id: 1f80b05b-efe5-40cd-8bda-9d98f01de885
+IdforFireestore: 1f80b05b-efe5-40cd-8bda-9d98f01de885
+Symbols: A
+ProperShippingNames: Acetaldehyde ammonia, 
+Description: Acetaldehyde ammonia
+Class: 9
+UNId: UN1841
+PackageGroup: III
+LabelCodes: 9, 
+SpecialProvisions: IB8, IP3, IP7, T1, TP33, 
+PackagingExceptions: 155, 
+PackagingNonBulk: 204, 
+PackagingBulk: 240, 
+QuantityLimitsPassenger: 200
+QuantityLimitsCargo: 200
+UnitOfMeasure: kg
+VesselStowageLocation: A
+VesselStowageOther: 34, " (0314e6fc)
+2025-03-15T15:17:17.2872333-05:00  [WRN] New hazmat item not found in database: "Id: 96624dd9-ae26-4e04-9dc2-66c08aa1e153
+IdforFireestore: 96624dd9-ae26-4e04-9dc2-66c08aa1e153
+Symbols: 
+ProperShippingNames: Acetaldehyde oxime, 
+Description: Acetaldehyde oxime
+Class: 3
+UNId: UN2332
+PackageGroup: III
+LabelCodes: 3, 
+SpecialProvisions: B1, IB3, T4, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 203, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 60
+QuantityLimitsCargo: 220
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:17.4120948-05:00  [WRN] New hazmat item not found in database: "Id: 4547adb7-1c20-448b-80bb-8b3a49cf2016
+IdforFireestore: 4547adb7-1c20-448b-80bb-8b3a49cf2016
+Symbols: 
+ProperShippingNames: Acetic acid, glacial, Acetic acid solution, 
+Description: Acetic acid, glacial <i>or</i> Acetic acid solution, <i>with more than 80 percent acid, by mass</i>
+Class: 8
+UNId: UN2789
+PackageGroup: II
+LabelCodes: 8, 3, 
+SpecialProvisions: A3, A7, A10, B2, IB2, T7, TP2, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: 53, 58, " (0314e6fc)
+2025-03-15T15:17:17.5368297-05:00  [WRN] New hazmat item not found in database: "Id: 63d2c55c-de9d-49a2-b529-e505c8ce8dab
+IdforFireestore: 63d2c55c-de9d-49a2-b529-e505c8ce8dab
+Symbols: 
+ProperShippingNames: Acetic acid solution, 
+Description: Acetic acid solution, <i>not less than 50 percent but not more than 80 percent acid, by mass</i>
+Class: 8
+UNId: UN2790
+PackageGroup: II
+LabelCodes: 8, 
+SpecialProvisions: 148, A3, A7, A10, B2, IB2, T7, TP2, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: 53, 58, " (0314e6fc)
+2025-03-15T15:17:17.6606260-05:00  [WRN] New hazmat item not found in database: "Id: 9801e29a-5cda-48c5-8a99-fa4650cb7ab8
+IdforFireestore: 9801e29a-5cda-48c5-8a99-fa4650cb7ab8
+Symbols: 
+ProperShippingNames: Acetic acid solution, 
+Description: Acetic acid solution, <i>with more than 10 percent and less than 50 percent acid, by mass</i>
+Class: 8
+UNId: UN2790
+PackageGroup: III
+LabelCodes: 8, 
+SpecialProvisions: 148, IB3, T4, TP1, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 203, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: 53, 58, " (0314e6fc)
+2025-03-15T15:17:17.7788572-05:00  [WRN] New hazmat item not found in database: "Id: dc7f19c0-2f65-4d87-aaab-aabd5a09ee07
+IdforFireestore: dc7f19c0-2f65-4d87-aaab-aabd5a09ee07
+Symbols: 
+ProperShippingNames: Acetic anhydride, 
+Description: Acetic anhydride
+Class: 8
+UNId: UN1715
+PackageGroup: II
+LabelCodes: 8, 3, 
+SpecialProvisions: A3, A7, A10, B2, IB2, T7, TP2, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: 40, 53, 58, " (0314e6fc)
+2025-03-15T15:17:17.9114008-05:00  [WRN] New hazmat item not found in database: "Id: ac03b855-773e-406f-ab22-bb06b4b5b43a
+IdforFireestore: ac03b855-773e-406f-ab22-bb06b4b5b43a
+Symbols: 
+ProperShippingNames: Acetone, 
+Description: Acetone
+Class: 3
+UNId: UN1090
+PackageGroup: II
+LabelCodes: 3, 
+SpecialProvisions: IB2, T4, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: B
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:18.0365477-05:00  [WRN] New hazmat item not found in database: "Id: d82f7f8f-50fa-436e-8f9f-e2108c1b3a1e
+IdforFireestore: d82f7f8f-50fa-436e-8f9f-e2108c1b3a1e
+Symbols: 
+ProperShippingNames: Acetone cyanohydrin, stabilized, 
+Description: Acetone cyanohydrin, stabilized
+Class: 6.1
+UNId: UN1541
+PackageGroup: I
+LabelCodes: 6.1, 
+SpecialProvisions: 2, B9, B14, B32, B76, B77, N34, T20, TP2, TP13, TP38, TP45, 
+PackagingExceptions: None, 
+PackagingNonBulk: 227, 
+PackagingBulk: 244, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 25, 40, 52, 53, " (0314e6fc)
+2025-03-15T15:17:18.1552917-05:00  [WRN] New hazmat item not found in database: "Id: e7f180d2-86e5-42cb-9d13-801bcfb52571
+IdforFireestore: e7f180d2-86e5-42cb-9d13-801bcfb52571
+Symbols: 
+ProperShippingNames: Acetone oils, 
+Description: Acetone oils
+Class: 3
+UNId: UN1091
+PackageGroup: II
+LabelCodes: 3, 
+SpecialProvisions: IB2, T4, TP1, TP8, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: B
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:18.2810502-05:00  [WRN] New hazmat item not found in database: "Id: 590e56ca-4f57-4491-907f-562c03c02f53
+IdforFireestore: 590e56ca-4f57-4491-907f-562c03c02f53
+Symbols: 
+ProperShippingNames: Acetonitrile, 
+Description: Acetonitrile
+Class: 3
+UNId: UN1648
+PackageGroup: II
+LabelCodes: 3, 
+SpecialProvisions: IB2, T7, TP2, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: B
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:18.6052476-05:00  [WRN] Changed or new hazmat item found in import: "Id: c6cc66f8-9f75-44fb-b8fe-22fd6ed09d86
+IdforFireestore: c6cc66f8-9f75-44fb-b8fe-22fd6ed09d86
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl acetone peroxide with more than 9 percent by mass active oxygen</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:18.9222658-05:00  [WRN] Changed or new hazmat item found in import: "Id: 64dda65d-76a0-4937-b703-9aae0aee9249
+IdforFireestore: 64dda65d-76a0-4937-b703-9aae0aee9249
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl benzoyl peroxide, solid, or with more than 40 percent in solution</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:19.0431222-05:00  [WRN] New hazmat item not found in database: "Id: df6bd54c-1bb2-42b3-817e-8ec5c5b7420e
+IdforFireestore: df6bd54c-1bb2-42b3-817e-8ec5c5b7420e
+Symbols: 
+ProperShippingNames: Acetyl bromide, 
+Description: Acetyl bromide
+Class: 8
+UNId: UN1716
+PackageGroup: II
+LabelCodes: 8, 
+SpecialProvisions: B2, IB2, T8, TP2, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: C
+VesselStowageOther: 40, 53, 58, " (0314e6fc)
+2025-03-15T15:17:19.1633698-05:00  [WRN] New hazmat item not found in database: "Id: dc406f26-f2ca-4602-a085-a35aa76cd974
+IdforFireestore: dc406f26-f2ca-4602-a085-a35aa76cd974
+Symbols: 
+ProperShippingNames: Acetyl chloride, 
+Description: Acetyl chloride
+Class: 3
+UNId: UN1717
+PackageGroup: II
+LabelCodes: 3, 8, 
+SpecialProvisions: A3, A7, IB1, N34, T8, TP2, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 202, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 5
+UnitOfMeasure: L
+VesselStowageLocation: B
+VesselStowageOther: 40, 53, 58, " (0314e6fc)
+2025-03-15T15:17:19.3107260-05:00  [INF] Application is shutting down... (90f52c38)
+2025-03-15T15:17:19.4620388-05:00  [WRN] Changed or new hazmat item found in import: "Id: 39530447-e09d-4a6c-a275-40efdf6bbd16
+IdforFireestore: 39530447-e09d-4a6c-a275-40efdf6bbd16
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl cyclohexanesulfonyl peroxide, with more than 82 percent wetted with less than 12 percent water</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:19.5874955-05:00  [WRN] New hazmat item not found in database: "Id: 2cad6873-f515-448b-a9d8-1b9096ad595f
+IdforFireestore: 2cad6873-f515-448b-a9d8-1b9096ad595f
+Symbols: 
+ProperShippingNames: Acetyl iodide, 
+Description: Acetyl iodide
+Class: 8
+UNId: UN1898
+PackageGroup: II
+LabelCodes: 8, 
+SpecialProvisions: B2, IB2, T7, TP2, TP13, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: C
+VesselStowageOther: 40, 53, 58, " (0314e6fc)
+2025-03-15T15:17:19.7098339-05:00  [WRN] New hazmat item not found in database: "Id: 8ee7ef4b-2612-4e68-8d08-5985c55bf528
+IdforFireestore: 8ee7ef4b-2612-4e68-8d08-5985c55bf528
+Symbols: 
+ProperShippingNames: Acetyl methyl carbinol, 
+Description: Acetyl methyl carbinol
+Class: 3
+UNId: UN2621
+PackageGroup: III
+LabelCodes: 3, 
+SpecialProvisions: B1, IB3, T2, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 203, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 60
+QuantityLimitsCargo: 220
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:19.9936313-05:00  [WRN] Changed or new hazmat item found in import: "Id: 73cb41fa-dc07-4146-9cde-306929f7a113
+IdforFireestore: 73cb41fa-dc07-4146-9cde-306929f7a113
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetyl peroxide, solid, or with more than 25 percent in solution</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:20.1133492-05:00  [WRN] New hazmat item not found in database: "Id: c9da3792-c311-40f6-ae48-3fb5069c2011
+IdforFireestore: c9da3792-c311-40f6-ae48-3fb5069c2011
+Symbols: 
+ProperShippingNames: Acetylene, dissolved, 
+Description: Acetylene, dissolved
+Class: 2.1
+UNId: UN1001
+PackageGroup: 
+LabelCodes: 2.1, 
+SpecialProvisions: N86, N88, 
+PackagingExceptions: None, 
+PackagingNonBulk: 303, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 15
+UnitOfMeasure: kg
+VesselStowageLocation: D
+VesselStowageOther: 25, 40, 57, " (0314e6fc)
+2025-03-15T15:17:20.3249351-05:00  [WRN] Changed or new hazmat item found in import: "Id: bcc8cb6d-550f-490b-b182-b0e7bce15761
+IdforFireestore: bcc8cb6d-550f-490b-b182-b0e7bce15761
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetylene (liquefied)</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:20.5280072-05:00  [WRN] Changed or new hazmat item found in import: "Id: c43b8a1b-1cee-444b-9a7d-f0ba60f11261
+IdforFireestore: c43b8a1b-1cee-444b-9a7d-f0ba60f11261
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetylene silver nitrate</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:20.7429101-05:00  [WRN] Changed or new hazmat item found in import: "Id: f642d802-3241-4bfb-b4ec-8675e2cc4c17
+IdforFireestore: f642d802-3241-4bfb-b4ec-8675e2cc4c17
+Symbols: 
+ProperShippingNames: , 
+Description: <i>Acetylene, solvent free</i>
+Class: FBDN
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:20.9292943-05:00  [WRN] Changed or new hazmat item found in import: "Id: 12f878c4-bad2-4256-9684-df83c2cf2c51
+IdforFireestore: 12f878c4-bad2-4256-9684-df83c2cf2c51
+Symbols: 
+ProperShippingNames: <i>Acetylene tetrabromide, see</i> Tetrabromoethane, 
+Description: <i>Acetylene tetrabromide, see</i> Tetrabromoethane
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:21.0509851-05:00  [WRN] Changed or new hazmat item found in import: "Id: b98279cb-4321-4e74-b9f8-131c2c50ae77
+IdforFireestore: b98279cb-4321-4e74-b9f8-131c2c50ae77
+Symbols: 
+ProperShippingNames: <i>Acid butyl phosphate, see</i> Butyl acid phosphate, 
+Description: <i>Acid butyl phosphate, see</i> Butyl acid phosphate
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:21.1725185-05:00  [WRN] Changed or new hazmat item found in import: "Id: 72cb4951-7a3d-434b-9f11-0fe121e68e31
+IdforFireestore: 72cb4951-7a3d-434b-9f11-0fe121e68e31
+Symbols: 
+ProperShippingNames: Acid, sludge, <i>see</i> Sludge acid, 
+Description: Acid, sludge, <i>see</i> Sludge acid
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:21.2935136-05:00  [WRN] New hazmat item not found in database: "Id: 0e8c3149-a11f-4c95-850b-e25216fd0316
+IdforFireestore: 0e8c3149-a11f-4c95-850b-e25216fd0316
+Symbols: 
+ProperShippingNames: Acridine, 
+Description: Acridine
+Class: 6.1
+UNId: UN2713
+PackageGroup: III
+LabelCodes: 6.1, 
+SpecialProvisions: IB8, IP3, T1, TP33, 
+PackagingExceptions: 153, 
+PackagingNonBulk: 213, 
+PackagingBulk: 240, 
+QuantityLimitsPassenger: 100
+QuantityLimitsCargo: 200
+UnitOfMeasure: kg
+VesselStowageLocation: A
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:21.4155177-05:00  [WRN] New hazmat item not found in database: "Id: d22f54ac-0111-46fc-bc32-b4feafb80d55
+IdforFireestore: d22f54ac-0111-46fc-bc32-b4feafb80d55
+Symbols: 
+ProperShippingNames: Acrolein dimer, stabilized, 
+Description: Acrolein dimer, stabilized
+Class: 3
+UNId: UN2607
+PackageGroup: III
+LabelCodes: 3, 
+SpecialProvisions: 387, B1, IB3, T2, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 203, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 60
+QuantityLimitsCargo: 220
+UnitOfMeasure: L
+VesselStowageLocation: C
+VesselStowageOther: 25, 40, " (0314e6fc)
+2025-03-15T15:17:21.5371520-05:00  [WRN] New hazmat item not found in database: "Id: 01f5fd08-db81-4c51-a4c1-ce74aef7f233
+IdforFireestore: 01f5fd08-db81-4c51-a4c1-ce74aef7f233
+Symbols: 
+ProperShippingNames: Acrolein, stabilized, 
+Description: Acrolein, stabilized
+Class: 6.1
+UNId: UN1092
+PackageGroup: I
+LabelCodes: 6.1, 3, 
+SpecialProvisions: 1, 380, 387, B9, B14, B30, B42, B77, T22, TP2, TP7, TP13, TP38, TP44, 
+PackagingExceptions: None, 
+PackagingNonBulk: 226, 
+PackagingBulk: 244, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 25, 40, " (0314e6fc)
+2025-03-15T15:17:21.6631861-05:00  [WRN] New hazmat item not found in database: "Id: 84d3ec42-109c-4605-a7f2-37cd615b4be6
+IdforFireestore: 84d3ec42-109c-4605-a7f2-37cd615b4be6
+Symbols: 
+ProperShippingNames: Acrylamide, solid, 
+Description: Acrylamide, solid
+Class: 6.1
+UNId: UN2074
+PackageGroup: III
+LabelCodes: 6.1, 
+SpecialProvisions: IB8, IP3, T1, TP33, 
+PackagingExceptions: 153, 
+PackagingNonBulk: 213, 
+PackagingBulk: 240, 
+QuantityLimitsPassenger: 100
+QuantityLimitsCargo: 200
+UnitOfMeasure: kg
+VesselStowageLocation: A
+VesselStowageOther: 12, 25, " (0314e6fc)
+2025-03-15T15:17:21.7861932-05:00  [WRN] New hazmat item not found in database: "Id: 40c62f2b-d80c-4a14-9793-626662c07b67
+IdforFireestore: 40c62f2b-d80c-4a14-9793-626662c07b67
+Symbols: 
+ProperShippingNames: Acrylamide solution, 
+Description: Acrylamide solution
+Class: 6.1
+UNId: UN3426
+PackageGroup: III
+LabelCodes: 6.1, 
+SpecialProvisions: IB3, T4, TP1, 
+PackagingExceptions: 153, 
+PackagingNonBulk: 203, 
+PackagingBulk: 241, 
+QuantityLimitsPassenger: 60
+QuantityLimitsCargo: 220
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: 12, 25, " (0314e6fc)
+2025-03-15T15:17:21.9067229-05:00  [WRN] New hazmat item not found in database: "Id: 79a8a2a6-4c65-43c9-bbfa-c6f630b8331c
+IdforFireestore: 79a8a2a6-4c65-43c9-bbfa-c6f630b8331c
+Symbols: 
+ProperShippingNames: Acrylic acid, stabilized, 
+Description: Acrylic acid, stabilized
+Class: 8
+UNId: UN2218
+PackageGroup: II
+LabelCodes: 8, 3, 
+SpecialProvisions: 387, B2, IB2, T7, TP2, 
+PackagingExceptions: 154, 
+PackagingNonBulk: 202, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: C
+VesselStowageOther: 25, 40, 53, 58, " (0314e6fc)
+2025-03-15T15:17:22.0261396-05:00  [WRN] New hazmat item not found in database: "Id: d2d7d512-8547-43c3-a41a-38a017a82f3b
+IdforFireestore: d2d7d512-8547-43c3-a41a-38a017a82f3b
+Symbols: 
+ProperShippingNames: Acrylonitrile, stabilized, 
+Description: Acrylonitrile, stabilized
+Class: 3
+UNId: UN1093
+PackageGroup: I
+LabelCodes: 3, 6.1, 
+SpecialProvisions: 387, B9, T14, TP2, TP13, 
+PackagingExceptions: None, 
+PackagingNonBulk: 201, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: D
+VesselStowageOther: 25, 40, " (0314e6fc)
+2025-03-15T15:17:22.1552865-05:00  [WRN] Changed or new hazmat item found in import: "Id: 52d84109-b61b-4319-b394-2481a19c45a0
+IdforFireestore: 52d84109-b61b-4319-b394-2481a19c45a0
+Symbols: 
+ProperShippingNames: <i>Actuating cartridge, explosive, see</i> Cartridges, power device, 
+Description: <i>Actuating cartridge, explosive, see</i> Cartridges, power device
+Class: SEE
+UNId: 
+PackageGroup: 
+LabelCodes: , 
+SpecialProvisions: , 
+PackagingExceptions: , 
+PackagingNonBulk: , 
+PackagingBulk: , 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: 
+VesselStowageOther: , " (3afbc302)
+2025-03-15T15:17:22.2754660-05:00  [WRN] New hazmat item not found in database: "Id: c1f1b68d-7817-4ff6-b01b-94391dd625e7
+IdforFireestore: c1f1b68d-7817-4ff6-b01b-94391dd625e7
+Symbols: 
+ProperShippingNames: Adhesives, 
+Description: Adhesives, <i>containing a flammable liquid</i>
+Class: 3
+UNId: UN1133
+PackageGroup: I
+LabelCodes: 3, 
+SpecialProvisions: T11, TP1, TP8, TP27, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 201, 
+PackagingBulk: 243, 
+QuantityLimitsPassenger: 1
+QuantityLimitsCargo: 30
+UnitOfMeasure: L
+VesselStowageLocation: B
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:22.4003003-05:00  [WRN] New hazmat item not found in database: "Id: 580acd2f-9870-4730-91d4-40b956bcb501
+IdforFireestore: 580acd2f-9870-4730-91d4-40b956bcb501
+Symbols: 
+ProperShippingNames: Adhesives, 
+Description: Adhesives, <i>containing a flammable liquid</i>
+Class: 3
+UNId: UN1133
+PackageGroup: II
+LabelCodes: 3, 
+SpecialProvisions: 149, B52, IB2, T4, TP1, TP8, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 173, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 5
+QuantityLimitsCargo: 60
+UnitOfMeasure: L
+VesselStowageLocation: B
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:22.5203171-05:00  [WRN] New hazmat item not found in database: "Id: 2d044371-eeb6-48c2-b08b-9c33a17a0b34
+IdforFireestore: 2d044371-eeb6-48c2-b08b-9c33a17a0b34
+Symbols: 
+ProperShippingNames: Adhesives, 
+Description: Adhesives, <i>containing a flammable liquid</i>
+Class: 3
+UNId: UN1133
+PackageGroup: III
+LabelCodes: 3, 
+SpecialProvisions: B1, B52, IB3, T2, TP1, 
+PackagingExceptions: 150, 
+PackagingNonBulk: 173, 
+PackagingBulk: 242, 
+QuantityLimitsPassenger: 60
+QuantityLimitsCargo: 220
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:22.6430309-05:00  [WRN] New hazmat item not found in database: "Id: a797176d-326a-45c3-a359-77ec539bb0d5
+IdforFireestore: a797176d-326a-45c3-a359-77ec539bb0d5
+Symbols: 
+ProperShippingNames: Adiponitrile, 
+Description: Adiponitrile
+Class: 6.1
+UNId: UN2205
+PackageGroup: III
+LabelCodes: 6.1, 
+SpecialProvisions: IB3, T3, TP1, 
+PackagingExceptions: 153, 
+PackagingNonBulk: 203, 
+PackagingBulk: 241, 
+QuantityLimitsPassenger: 60
+QuantityLimitsCargo: 220
+UnitOfMeasure: L
+VesselStowageLocation: A
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:22.7664161-05:00  [WRN] New hazmat item not found in database: "Id: 49186530-fc06-409c-8158-1959b7a627c8
+IdforFireestore: 49186530-fc06-409c-8158-1959b7a627c8
+Symbols: G
+ProperShippingNames: Adsorbed gas, n.o.s, 
+Description: Adsorbed gas, n.o.s
+Class: 2.2
+UNId: UN3511
+PackageGroup: 
+LabelCodes: 2.2, 
+SpecialProvisions: , 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 75
+QuantityLimitsCargo: 150
+UnitOfMeasure: kg
+VesselStowageLocation: A
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:22.8961082-05:00  [WRN] New hazmat item not found in database: "Id: 900049de-eb7c-4baf-b999-a710fad0950e
+IdforFireestore: 900049de-eb7c-4baf-b999-a710fad0950e
+Symbols: G
+ProperShippingNames: Adsorbed gas, flammable, n.o.s, 
+Description: Adsorbed gas, flammable, n.o.s
+Class: 2.1
+UNId: UN3510
+PackageGroup: 
+LabelCodes: 2.1, 
+SpecialProvisions: , 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 150
+UnitOfMeasure: kg
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.0179814-05:00  [WRN] New hazmat item not found in database: "Id: aa2576f1-f742-4311-82fa-11dc15c525e4
+IdforFireestore: aa2576f1-f742-4311-82fa-11dc15c525e4
+Symbols: G
+ProperShippingNames: Adsorbed gas, oxidizing, n.o.s, 
+Description: Adsorbed gas, oxidizing, n.o.s
+Class: 2.2
+UNId: UN3513
+PackageGroup: 
+LabelCodes: 2.2, 5.1, 
+SpecialProvisions: , 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 75
+QuantityLimitsCargo: 150
+UnitOfMeasure: kg
+VesselStowageLocation: D
+VesselStowageOther: , " (0314e6fc)
+2025-03-15T15:17:23.1369804-05:00  [WRN] New hazmat item not found in database: "Id: 1f50eac2-bf22-44b6-9224-9b4d6baa6913
+IdforFireestore: 1f50eac2-bf22-44b6-9224-9b4d6baa6913
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, n.o.s., 
+Description: Adsorbed gas, toxic, n.o.s. <i>Inhalation hazard zone A</i>
+Class: 2.3
+UNId: UN3512
+PackageGroup: 
+LabelCodes: 2.3, 
+SpecialProvisions: 1, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.2568577-05:00  [WRN] New hazmat item not found in database: "Id: d879f59e-8bd7-498d-bf5c-0eb663f1507d
+IdforFireestore: d879f59e-8bd7-498d-bf5c-0eb663f1507d
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, n.o.s., 
+Description: Adsorbed gas, toxic, n.o.s. <i>Inhalation hazard zone B</i>
+Class: 2.3
+UNId: UN3512
+PackageGroup: 
+LabelCodes: 2.3, 
+SpecialProvisions: 2, B9, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.3818567-05:00  [WRN] New hazmat item not found in database: "Id: d739984d-1d93-42b4-875a-0bb86deb92ba
+IdforFireestore: d739984d-1d93-42b4-875a-0bb86deb92ba
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, n.o.s., 
+Description: Adsorbed gas, toxic, n.o.s. <i>Inhalation hazard zone C</i>
+Class: 2.3
+UNId: UN3512
+PackageGroup: 
+LabelCodes: 2.3, 
+SpecialProvisions: 3, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.5030361-05:00  [WRN] New hazmat item not found in database: "Id: 92026009-17fa-49c7-b8b5-b62e837ac552
+IdforFireestore: 92026009-17fa-49c7-b8b5-b62e837ac552
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, n.o.s., 
+Description: Adsorbed gas, toxic, n.o.s. <i>Inhalation hazard zone D</i>
+Class: 2.3
+UNId: UN3512
+PackageGroup: 
+LabelCodes: 2.3, 
+SpecialProvisions: 4, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.6241491-05:00  [WRN] New hazmat item not found in database: "Id: 45ed2abb-aeea-4437-8773-92ff9fbe2f08
+IdforFireestore: 45ed2abb-aeea-4437-8773-92ff9fbe2f08
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, corrosive, n.o.s. <i>Inhalation hazard zone A</i>
+Class: 2.3
+UNId: UN3516
+PackageGroup: 
+LabelCodes: 2.3, 8, 
+SpecialProvisions: 1, 379, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.7473579-05:00  [WRN] New hazmat item not found in database: "Id: c314f8b0-4099-4a80-9184-928f4699187a
+IdforFireestore: c314f8b0-4099-4a80-9184-928f4699187a
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, corrosive, n.o.s. <i>Inhalation hazard zone B</i>
+Class: 2.3
+UNId: UN3516
+PackageGroup: 
+LabelCodes: 2.3, 8, 
+SpecialProvisions: 2, 379, B9, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.8689465-05:00  [WRN] New hazmat item not found in database: "Id: 82090c40-045d-47e6-b5de-833a2dce6a75
+IdforFireestore: 82090c40-045d-47e6-b5de-833a2dce6a75
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, corrosive, n.o.s. <i>Inhalation hazard zone C</i>
+Class: 2.3
+UNId: UN3516
+PackageGroup: 
+LabelCodes: 2.3, 8, 
+SpecialProvisions: 3, 379, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:23.9921190-05:00  [WRN] New hazmat item not found in database: "Id: 120aeae1-f167-4fc6-8d89-cb66bacfcd92
+IdforFireestore: 120aeae1-f167-4fc6-8d89-cb66bacfcd92
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, corrosive, n.o.s. <i>Inhalation hazard zone D</i>
+Class: 2.3
+UNId: UN3516
+PackageGroup: 
+LabelCodes: 2.3, 8, 
+SpecialProvisions: 4, 379, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:24.1123298-05:00  [WRN] New hazmat item not found in database: "Id: ca3b3326-bace-4820-bcc6-8b9dd62c3000
+IdforFireestore: ca3b3326-bace-4820-bcc6-8b9dd62c3000
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, n.o.s. <i>Inhalation hazard zone A</i>
+Class: 2.3
+UNId: UN3514
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 
+SpecialProvisions: 1, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:24.2347899-05:00  [WRN] New hazmat item not found in database: "Id: 48d84858-c051-473d-9fd4-b0e94980f7fe
+IdforFireestore: 48d84858-c051-473d-9fd4-b0e94980f7fe
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, n.o.s. <i>Inhalation hazard zone B</i>
+Class: 2.3
+UNId: UN3514
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 
+SpecialProvisions: 2, B9, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:24.3568703-05:00  [WRN] New hazmat item not found in database: "Id: d8a6aa93-95f1-4adc-a5f3-2c647f95faa4
+IdforFireestore: d8a6aa93-95f1-4adc-a5f3-2c647f95faa4
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, n.o.s. <i>Inhalation hazard zone C</i>
+Class: 2.3
+UNId: UN3514
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 
+SpecialProvisions: 3, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:24.4766320-05:00  [WRN] New hazmat item not found in database: "Id: 0f241ae6-e3c7-41ec-aaeb-f457b59713b8
+IdforFireestore: 0f241ae6-e3c7-41ec-aaeb-f457b59713b8
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, n.o.s. <i>Inhalation hazard zone D</i>
+Class: 2.3
+UNId: UN3514
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 
+SpecialProvisions: 4, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:24.6010997-05:00  [WRN] New hazmat item not found in database: "Id: b1317737-7496-4b0e-90a0-98d344d8b395
+IdforFireestore: b1317737-7496-4b0e-90a0-98d344d8b395
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, corrosive, n.o.s. <i>Inhalation hazard zone A</i>
+Class: 2.3
+UNId: UN3517
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 8, 
+SpecialProvisions: 1, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 17, 40, " (0314e6fc)
+2025-03-15T15:17:24.7311218-05:00  [WRN] New hazmat item not found in database: "Id: 25924aa0-fc55-412e-94c8-e5412140b724
+IdforFireestore: 25924aa0-fc55-412e-94c8-e5412140b724
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, corrosive, n.o.s. <i>Inhalation hazard zone B</i>
+Class: 2.3
+UNId: UN3517
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 8, 
+SpecialProvisions: 2, B9, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 17, 40, " (0314e6fc)
+2025-03-15T15:17:24.8520302-05:00  [WRN] New hazmat item not found in database: "Id: 2d2fbccf-3209-47b0-830b-3ff7bd6bc648
+IdforFireestore: 2d2fbccf-3209-47b0-830b-3ff7bd6bc648
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, corrosive, n.o.s. <i>Inhalation hazard zone C</i>
+Class: 2.3
+UNId: UN3517
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 8, 
+SpecialProvisions: 3, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 17, 40, " (0314e6fc)
+2025-03-15T15:17:24.9764767-05:00  [WRN] New hazmat item not found in database: "Id: b950bc35-9a74-410a-ba77-93e1842aad73
+IdforFireestore: b950bc35-9a74-410a-ba77-93e1842aad73
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, flammable, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, flammable, corrosive, n.o.s. <i>Inhalation hazard zone D</i>
+Class: 2.3
+UNId: UN3517
+PackageGroup: 
+LabelCodes: 2.3, 2.1, 8, 
+SpecialProvisions: 4, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 17, 40, " (0314e6fc)
+2025-03-15T15:17:25.1004217-05:00  [WRN] New hazmat item not found in database: "Id: 11902989-3962-4074-96a1-22427994387a
+IdforFireestore: 11902989-3962-4074-96a1-22427994387a
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, n.o.s. <i>Inhalation hazard zone A</i>
+Class: 2.3
+UNId: UN3515
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 
+SpecialProvisions: 1, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:25.2293774-05:00  [WRN] New hazmat item not found in database: "Id: 45ff5e79-a59e-497f-967e-d456a3a79414
+IdforFireestore: 45ff5e79-a59e-497f-967e-d456a3a79414
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, n.o.s. <i>Inhalation hazard zone B</i>
+Class: 2.3
+UNId: UN3515
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 
+SpecialProvisions: 2, B9, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:25.3487231-05:00  [WRN] New hazmat item not found in database: "Id: 4f9a9c19-d24e-4a0f-9833-21044b6426c5
+IdforFireestore: 4f9a9c19-d24e-4a0f-9833-21044b6426c5
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, n.o.s. <i>Inhalation hazard zone C</i>
+Class: 2.3
+UNId: UN3515
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 
+SpecialProvisions: 3, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:25.4686117-05:00  [WRN] New hazmat item not found in database: "Id: 33785c94-1345-44d6-9915-5ef84ac269db
+IdforFireestore: 33785c94-1345-44d6-9915-5ef84ac269db
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, n.o.s. <i>Inhalation hazard zone D</i>
+Class: 2.3
+UNId: UN3515
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 
+SpecialProvisions: 4, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, " (0314e6fc)
+2025-03-15T15:17:25.5900449-05:00  [WRN] New hazmat item not found in database: "Id: 4cf51201-ca3f-40e8-b46e-2290dc513a2c
+IdforFireestore: 4cf51201-ca3f-40e8-b46e-2290dc513a2c
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. <i>Inhalation hazard zone A</i>
+Class: 2.3
+UNId: UN3518
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 8, 
+SpecialProvisions: 1, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, 89, 90, " (0314e6fc)
+2025-03-15T15:17:25.7092904-05:00  [WRN] New hazmat item not found in database: "Id: 88183e91-9968-48e7-b6b1-f8ba3819302f
+IdforFireestore: 88183e91-9968-48e7-b6b1-f8ba3819302f
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. <i>Inhalation hazard zone B</i>
+Class: 2.3
+UNId: UN3518
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 8, 
+SpecialProvisions: 2, B9, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, 89, 90, " (0314e6fc)
+2025-03-15T15:17:25.8371633-05:00  [WRN] New hazmat item not found in database: "Id: eacf7a5c-1c42-4bcc-b98c-85fde0557eb0
+IdforFireestore: eacf7a5c-1c42-4bcc-b98c-85fde0557eb0
+Symbols: G
+ProperShippingNames: Adsorbed gas, toxic, oxidizing, corrosive, n.o.s., 
+Description: Adsorbed gas, toxic, oxidizing, corrosive, n.o.s. <i>Inhalation hazard zone C</i>
+Class: 2.3
+UNId: UN3518
+PackageGroup: 
+LabelCodes: 2.3, 5.1, 8, 
+SpecialProvisions: 3, B14, 
+PackagingExceptions: None, 
+PackagingNonBulk: 302c, 
+PackagingBulk: None, 
+QuantityLimitsPassenger: 0
+QuantityLimitsCargo: 0
+UnitOfMeasure: 
+VesselStowageLocation: D
+VesselStowageOther: 40, 89, 90, " (0314e6fc)
+2025-03-15T15:18:20.5940150-05:00  [WRN] Worker running at: 03/15/2025 15:18:20 -05:00 (73d86d1a)
