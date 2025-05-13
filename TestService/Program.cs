@@ -17,7 +17,9 @@ builder.Services.AddHttpHazmatClients(builder.Configuration);
 // Register the database connection to Azure CosmosDB or Google FireStore NoSql determined by config
 // and HazmatItemImporter as a scoped service for use in Worker.
 builder.Services.AddDatabaseConnection(builder.Configuration);
+
 builder.Services.AddScoped<HazmatItemImporter>();
+builder.Services.AddScoped<SpecialProvisionImporter>();
 
 //Added Utility class for retrievaling Hazmat sections meta data.
 builder.Services.AddScoped<ECFRClient>();
@@ -33,4 +35,15 @@ builder.Services.AddSingleton<IHostedService>(provider =>
 });
 
 var host = builder.Build();
+
+using var cts = new CancellationTokenSource();
+
+// Listen for Ctrl-C (SIGINT)
+Console.CancelKeyPress += (sender, eventArgs) =>
+{
+    Console.WriteLine("Ctrl-C pressed. Shutting down...");
+    eventArgs.Cancel = true; // Prevent immediate termination
+    cts.Cancel();
+};
+
 host.Run();

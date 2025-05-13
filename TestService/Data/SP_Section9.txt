@@ -1,0 +1,26 @@
+“W” codes.</I> These provisions apply only to transportation by water:</P>
+<EXTRACT>
+<HD2>Code/Special Provisions
+</HD2>
+<FP-1>W1 This substance in a non friable prill or granule form is not subject to the requirements of this subchapter when tested in accordance with the UN Manual of Test and Criteria (IBR, <I>see</I> § 171.7 of this subchapter) and is found to not meet the definition or criteria for inclusion in Division 5.1.
+</FP-1>
+<FP-1>W7 Vessel stowage category for uranyl nitrate hexahydrate solution is “D” as defined in § 172.101(k)(4).
+</FP-1>
+<FP-1>W8 Vessel stowage category for pyrophoric thorium metal or pyrophoric uranium metal is “D” as defined in § 172.101(k)(4).
+</FP-1>
+<FP-1>W9 When offered for transportation by water, the following Specification packagings are not authorized unless approved by the Associate Administrator: woven plastic bags, plastic film bags, textile bags, paper bags, IBCs and bulk packagings.
+</FP-1>
+<FP-1>W10 When offered for transportation by vessel, the use of Large Packagings (see § 171.8 of this subchapter) is prohibited.
+</FP-1>
+<FP-1>W31 Non-bulk packagings must be hermetically sealed.
+</FP-1>
+<FP-1>W40 Non-bulk bags are not allowed.
+</FP-1>
+<FP-1>W41 When offered for transportation by water, this material must be packaged in bales and be securely and tightly bound with rope, wire or similar means.
+</FP-1>
+<FP-1>W100 Non-bulk flexible, fibreboard or wooden packagings must be sift-proof and water-resistant or must be fitted with a sift-proof and water-resistant liner.</FP-1></EXTRACT>
+<CITA TYPE="N">[Amdt. 172-123, 55 FR 52582, Dec. 21, 1990]
+</CITA>
+<EDNOTE>
+<HED>Editorial Note:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 172.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></PSPACE></EDNOTE>
+</DIV8>

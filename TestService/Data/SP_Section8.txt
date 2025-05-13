@@ -1,0 +1,100 @@
+“TP” codes.</I> (i) These provisions apply to the transportation of hazardous materials in IM and UN Specification portable tanks. Portable tank special provisions are assigned to certain hazardous materials to specify requirements that are in addition to those provided by the portable tank instructions or the requirements in part 178 of this subchapter. Portable tank special provisions are designated with the abbreviation TP (tank provision) and are assigned to specific hazardous materials in Column (7) of the § 172.101 Table.</P>
+<P>(ii) The following is a list of the portable tank special provisions:</P>
+<EXTRACT>
+<HD2>Code/Special Provisions
+</HD2>
+<P>TP1 The maximum degree of filling must not exceed the degree of filling determined by the following:</P>
+<MATH BORDER="NODRAW" DEEP="33" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="1" STRIP="YES">
+<img src="/graphics/en21jn01.000.gif"></img></MATH>
+<FP>Where:
+</FP>
+<FP-2>t<E T="52">r</E> is the maximum mean bulk temperature during transport, and t<E T="52">f</E> is the temperature in degrees celsius of the liquid during filling.
+</FP-2>
+<P>TP2 a. The maximum degree of filling must not exceed the degree of filling determined by the following:</P>
+<MATH BORDER="NODRAW" DEEP="33" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="1" STRIP="YES">
+<img src="/graphics/en21jn01.001.gif"></img></MATH>
+<FP>Where:
+</FP>
+<FP-2>t<E T="52">r</E> is the maximum mean bulk temperature during transport,
+</FP-2>
+<FP-2>t<E T="52">f</E> is the temperature in degrees celsius of the liquid during filling, and
+</FP-2>
+<FP-2>α is the mean coefficient of cubical expansion of the liquid between the mean temperature of the liquid during filling (t<E T="52">f</E>) and the maximum mean bulk temperature during transportation (t<E T="52">r</E>) both in degrees celsius.
+</FP-2>
+<P>b. For liquids transported under ambient conditions α may be calculated using the formula:</P>
+<MATH BORDER="NODRAW" DEEP="27" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="1" STRIP="YES">
+<img src="/graphics/en21jn01.009.gif"></img></MATH>
+<FP>Where:
+</FP>
+<FP-2>d<E T="52">15</E> and d<E T="52">50</E> are the densities (in units of mass per unit volume) of the liquid at 15 °C (59 °F) and 50 °C (122 °F), respectively.
+</FP-2>
+<P>TP3 The maximum degree of filling (in %) for solids transported above their melting points and for elevated temperature liquids shall be determined by the following:</P>
+<MATH BORDER="NODRAW" DEEP="31" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="1" STRIP="YES">
+<img src="/graphics/er14jn05.003.gif"></img></MATH>
+<FP>Where: d<E T="52">f</E> and d<E T="52">r</E> are the mean densities of the liquid at the mean temperature of the liquid during filling and the maximum mean bulk temperature during transport respectively.
+</FP>
+<P>TP4 The maximum degree of filling for portable tanks must not exceed 90%.</P>
+<P>TP5 For a portable tank used for the transport of flammable refrigerated liquefied gases or refrigerated liquefied oxygen, the maximum rate at which the portable tank may be filled must not exceed the liquid flow capacity of the primary pressure relief system rated at a pressure not exceeding 120 percent of the portable tank's design pressure. For portable tanks used for the transport of refrigerated liquefied helium and refrigerated liquefied atmospheric gas (except oxygen), the maximum rate at which the tank is filled must not exceed the liquid flow capacity of the pressure relief device rated at 130 percent of the portable tank's design pressure. Except for a portable tank containing refrigerated liquefied helium, a portable tank shall have an outage of at least two percent below the inlet of the pressure relief device or pressure control valve, under conditions of incipient opening, with the portable tank in a level attitude. No outage is required for helium.</P>
+<P>TP6 The tank must be equipped with a pressure release device which prevent a tank from bursting under fire engulfment conditions (the conditions prescribed in CGA pamphlet S-1.2 (see § 171.7 of this subchapter) or alternative conditions approved by the Associate Administrator may be used to consider the fire engulfment condition), taking into account the properties of the hazardous material to be transported.</P>
+<P>TP7 The vapor space must be purged of air by nitrogen or other means.</P>
+<P>TP8 A portable tank having a minimum test pressure of 1.5 bar (150 kPa) may be used when the flash point of the hazardous material transported is greater than 0 °C (32 °F).</P>
+<P>TP9 A hazardous material assigned to special provision TP9 in Column (7) of the § 172.101 Table may only be transported in a portable tank if approved by the Associate Administrator.</P>
+<P>TP10 A lead lining, not less than 5 mm thick, which shall be tested annually, or another suitable lining material approved by the competent authority, is required. A portable tank may be offered for transport after the date of expiry of the last lining inspection for a period not to exceed three months for purposes of performing the next required test or inspection, after emptying but before cleaning.</P>
+<P>TP12 This material is considered highly corrosive to steel.</P>
+<P>TP13 Self-contained breathing apparatus must be provided when this hazardous material is transported by sea.</P>
+<P>TP16 The portable tank must be protected against over and under pressurization which may be experienced during transportation. The means of protection must be approved by the approval agency designated to approve the portable tank in accordance with the procedures in part 107, subpart E, of this subchapter. The pressure relief device must be preceded by a frangible disk in accordance with the requirements in § 178.275(g)(3) of this subchapter to prevent crystallization of the product in the pressure relief device.</P>
+<P>TP17 Only inorganic non-combustible materials may be used for thermal insulation of the tank.</P>
+<P>TP18 The temperature of this material must be maintained between 18 °C (64.4 °F) and 40 °C (104 °F) while in transportation. Portable tanks containing solidified methacrylic acid must not be reheated during transportation.</P>
+<P>TP19 The calculated wall thickness must be increased by 3 mm at the time of construction. Wall thickness must be verified ultrasonically at intervals midway between periodic hydraulic tests (every 2.5 years). The portable tank must not be used if the wall thickness is less than that prescribed by the applicable T code in Column (7) of the Table for this material.</P>
+<P>TP20 This hazardous material must only be transported in insulated tanks under a nitrogen blanket.</P>
+<P>TP21 The wall thickness must not be less than 8 mm. Portable tanks must be hydraulically tested and internally inspected at intervals not exceeding 2.5 years.</P>
+<P>TP22 Lubricants for portable tank fittings (for example, gaskets, shut-off valves, flanges) must be oxygen compatible.</P>
+<P>TP24 The portable tank may be fitted with a device to prevent the build up of excess pressure due to the slow decomposition of the hazardous material being transported. The device must be in the vapor space when the tank is filled under maximum filling conditions. This device must also prevent an unacceptable amount of leakage of liquid in the case of overturning.</P>
+<P>TP25 Sulphur trioxide 99.95% pure and above may be transported in tanks without an inhibitor provided that it is maintained at a temperature equal to or above 32.5 °C (90.5 °F).</P>
+<P>TP26 The heating device must be exterior to the shell. For UN 3176, this requirement only applies when the hazardous material reacts dangerously with water.</P>
+<P>TP27 A portable tank having a minimum test pressure of 4 bar (400 kPa) may be used provided the calculated test pressure is 4 bar or less based on the MAWP of the hazardous material, as defined in § 178.275 of this subchapter, where the test pressure is 1.5 times the MAWP.</P>
+<P>TP28 A portable tank having a minimum test pressure of 2.65 bar (265 kPa) may be used provided the calculated test pressure is 2.65 bar or less based on the MAWP of the hazardous material, as defined in § 178.275 of this subchapter, where the test pressure is 1.5 times the MAWP.</P>
+<P>TP29 A portable tank having a minimum test pressure of 1.5 bar (150.0 kPa) may be used provided the calculated test pressure is 1.5 bar or less based on the MAWP of the hazardous materials, as defined in § 178.275 of this subchapter, where the test pressure is 1.5 times the MAWP.</P>
+<P>TP30 This hazardous material may only be transported in insulated tanks.</P>
+<P>TP31 This hazardous material may only be transported in tanks in the solid state.</P>
+<P>TP32 Portable tanks may be used subject to the following conditions:</P>
+<P>a. Each portable tank constructed of metal must be fitted with a pressure-relief device consisting of a reclosing spring loaded type, a frangible disc or a fusible element. The set to discharge for the spring loaded pressure relief device and the burst pressure for the frangible disc, as applicable, must not be greater than 2.65 bar for portable tanks with minimum test pressures greater than 4 bar;</P>
+<P>b. The suitability for transport in tanks must be demonstrated using test 8(d) in Test Series 8 (see UN Manual of Tests and Criteria, Part 1, Sub-section 18.7) (IBR, see § 171.7 of this subchapter) or an alternative means approved by the Associate Administrator.</P>
+<P>TP33 The portable tank instruction assigned for this substance applies for granular and powdered solids and for solids which are filled and discharged at temperatures above their melting point which are cooled and transported as a solid mass. Solid substances transported or offered for transport above their melting point are authorized for transportation in portable tanks conforming to the provisions of portable tank instruction T4 for solid substances of packing group III or T7 for solid substances of packing group II, unless a tank with more stringent requirements for minimum shell thickness, maximum allowable working pressure, pressure-relief devices or bottom outlets are assigned in which case the more stringent tank instruction and special provisions shall apply. Filling limits must be in accordance with portable tank special provision TP3. Solids meeting the definition of an elevated temperature material must be transported in accordance with the applicable requirements of this subchapter.</P>
+<P>TP36 For material assigned this portable tank special provision, portable tanks used to transport such material may be equipped with fusible elements in the vapor space of the portable tank.</P>
+<P>TP37 IM portable tanks are only authorized for the shipment of hydrogen peroxide solutions in water containing 72% or less hydrogen peroxide by weight. Pressure relief devices shall be designed to prevent the entry of foreign matter, the leakage of liquid and the development of any dangerous excess pressure. In addition, the portable tank must be designed so that internal surfaces may be effectively cleaned and passivated. Each tank must be equipped with pressure relief devices conforming to the following requirements:</P></EXTRACT>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">Concentration of hydrogen per peroxide solution</TH>
+<TH class="center border-top-single border-bottom-single">Total <sup>1</sup></TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">52% or less</TD>
+<TD class="right">11</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">Over 52%, but not greater than 60%</TD>
+<TD class="right">22</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">Over 60%, but not greater than 72%</TD>
+<TD class="right border-bottom-single">32
+</TD>
+</TR>
+</TBODY>
+<TFOOT><TR><TD colspan="2"><sup>1</sup> Total venting capacity in standard cubic feet hour (S.C.F.H.) per pound of hydrogen peroxide solution.</TD></TR></TFOOT></TABLE>
+</DIV></DIV>
+<EXTRACT>
+<P>TP38 Each portable tank must be insulated with an insulating material so that the overall thermal conductance at 15.5 °C (60 °F) is no more than 1.5333 kilojoules per hour per square meter per degree Celsius (0.075 Btu per hour per square foot per degree Fahrenheit) temperature differential. Insulating materials may not promote corrosion to steel when wet.</P>
+<P>TP39 [Reserved]</P>
+<P>TP40 The portable tank must not be transported when connected with spray application equipment.</P>
+<P>TP41 [Reserved]</P>
+<P>TP44 Each portable tank must be made of stainless steel, except that steel other than stainless steel may be used in accordance with the provisions of § 173.24b(b) of this subchapter. Thickness of stainless steel for tank shell and heads must be the greater of 7.62 mm (0.300 inch) or the thickness required for a portable tank with a design pressure at least equal to 1.5 times the vapor pressure of the hazardous material at 46 °C (115 °F).</P>
+<P>TP45 Each portable tank must be made of stainless steel, except that steel other than stainless steel may be used in accordance with the provisions of 173.24b(b) of this subchapter. Thickness of stainless steel for portable tank shells and heads must be the greater of 6.35 mm (0.250 inch) or the thickness required for a portable tank with a design pressure at least equal to 1.3 times the vapor pressure of the hazardous material at 46 °C (115 °F).</P>
+<P>TP46 Portable tanks in sodium metal service are not required to be hydrostatically retested.</P>
+<P>TP47 The 2.5 year internal examination may be waived or substituted by other test methods or inspection procedures specified by the competent authority or its authorized body, provided that the portable tank is dedicated to the transport of the organometallic substances to which this tank special provision is assigned. However this examination is required when the conditions of § 180.605(f) are met.</P>
+<P>TP48 The use of IM 101 and 102 portable tanks when transported in accordance with IME Standard 23 (IBR, see § 171.7 of this subchapter).</P></EXTRACT>

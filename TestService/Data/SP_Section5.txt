@@ -1,0 +1,97 @@
+“N” codes.</I> These provisions apply only to non-bulk packagings:</P>
+<EXTRACT>
+<HD2>Code/Special Provisions
+</HD2>
+<FP-1>N3 Glass inner packagings are permitted in combination or composite packagings only if the hazardous material is free from hydrofluoric acid.
+</FP-1>
+<FP-1>N4 For combination or composite packagings, glass inner packagings, other than ampoules, are not permitted.
+</FP-1>
+<FP-1>N5 Glass materials of construction are not authorized for any part of a packaging which is normally in contact with the hazardous material.
+</FP-1>
+<FP-1>N6 Battery fluid packaged with electric storage batteries, wet or dry, must conform to the packaging provisions of § 173.159 (g) or (h) of this subchapter.
+</FP-1>
+<FP-1>N7 The hazard class or division number of the material must be marked on the package in accordance with § 172.302 of this subchapter. However, the hazard label corresponding to the hazard class or division may be substituted for the marking.
+</FP-1>
+<FP-1>N8 Nitroglycerin solution in alcohol may be transported under this entry only when the solution is packed in metal cans of not more than 1 L capacity each, overpacked in a wooden box containing not more than 5 L. Metal cans must be completely surrounded with absorbent cushioning material. Wooden boxes must be completely lined with a suitable material impervious to water and nitroglycerin.
+</FP-1>
+<FP-1>N11 This material is excepted for the specification packaging requirements of this subchapter if the material is packaged in strong, tight non-bulk packaging meeting the requirements of subparts A and B of part 173 of this subchapter.
+</FP-1>
+<FP-1>N12 Plastic packagings are not authorized.
+</FP-1>
+<FP-1>N20 A 5M1 multi-wall paper bag is authorized if transported in a closed transport vehicle.
+</FP-1>
+<FP-1>N25 Steel single packagings are not authorized.
+</FP-1>
+<FP-1>N32 Aluminum materials of construction are not authorized for single packagings.
+</FP-1>
+<FP-1>N33 Aluminum drums are not authorized.
+</FP-1>
+<FP-1>N34 Aluminum construction materials are not authorized for any part of a packaging which is normally in contact with the hazardous material.
+</FP-1>
+<FP-1>N36 Aluminum or aluminum alloy construction materials are permitted only for halogenated hydrocarbons that will not react with aluminum.
+</FP-1>
+<FP-1>N37 This material may be shipped in an integrally-lined fiber drum (1G) which meets the general packaging requirements of subpart B of part 173 of this subchapter, the requirements of part 178 of this subchapter at the packing group assigned for the material and to any other special provisions of column 7 of the § 172.101 table.
+</FP-1>
+<FP-1>N40 This material is not authorized in the following packagings:
+</FP-1>
+<FP1-2>a. A combination packaging consisting of a 4G fiberboard box with inner receptacles of glass or earthenware;
+</FP1-2>
+<FP1-2>b. A single packaging of a 4C2 sift-proof, natural wood box; or
+</FP1-2>
+<FP1-2>c. A composite packaging 6PG2 (glass, porcelain or stoneware receptacles within a fiberboard box).
+</FP1-2>
+<FP-1>N41 Metal construction materials are not authorized for any part of a packaging which is normally in contact with the hazardous material.
+</FP-1>
+<FP-1>N42 1A1 drums made of carbon steel with thickness of body and heads of not less than 1.3 mm (0.050 inch) and with a corrosion-resistant phenolic lining are authorized for stabilized benzyl chloride if tested and certified to the Packing Group I performance level at a specific gravity of not less than 1.8.
+</FP-1>
+<FP-1>N43 Metal drums are permitted as single packagings only if constructed of nickel or monel.
+</FP-1>
+<FP-1>N45 Copper cartridges are authorized as inner packagings if the hazardous material is not in dispersion.
+</FP-1>
+<FP-1>N65 Outage must be sufficient to prevent cylinders or spheres from becoming liquid full at 55 °C (130 °F). The vacant space (outage) may be charged with a nonflammable nonliquefied compressed gas if the pressure in the cylinder or sphere at 55 °C (130 °F) does not exceed 125 percent of the marked service pressure.
+</FP-1>
+<FP-1>N73 Packagings consisting of outer wooden or fiberboard boxes with inner glass, metal or other strong containers; metal or fiber drums; kegs or barrels; or strong metal cans are authorized and need not conform to the requirements of part 178 of this subchapter.
+</FP-1>
+<FP-1>N74 Packages consisting of tightly closed inner containers of glass, earthenware, metal or polyethylene, capacity not over 0.5 kg (1.1 pounds) securely cushioned and packed in outer wooden barrels or wooden or fiberboard boxes, not over 15 kg (33 pounds) net weight, are authorized and need not conform to the requirements of part 178 of this subchapter.
+</FP-1>
+<FP-1>N75 Packages consisting of tightly closed inner packagings of glass, earthenware or metal, securely cushioned and packed in outer wooden barrels or wooden or fiberboard boxes, capacity not over 2.5 kg (5.5 pounds) net weight, are authorized and need not conform to the requirements of part 178 of this subchapter.
+</FP-1>
+<FP-1>N76 For materials of not more than 25 percent active ingredient by weight, packages consisting of inner metal packagings not greater than 250 mL (8 ounces) capacity each, packed in strong outer packagings together with sufficient absorbent material to completely absorb the liquid contents are authorized and need not conform to the requirements of part 178 of this subchapter.
+</FP-1>
+<FP-1>N77 For materials of not more than two percent active ingredients by weight, packagings need not conform to the requirements of part 178 of this subchapter, if liquid contents are absorbed in an inert material.
+</FP-1>
+<FP-1>N78 Packages consisting of inner glass, earthenware, or polyethylene or other nonfragile plastic bottles or jars not over 0.5 kg (1.1 pounds) capacity each, or metal cans not over five pounds capacity each, packed in outer wooden boxes, barrels or kegs, or fiberboard boxes are authorized and need not conform to the requirements of part 178 of this subchapter. Net weight of contents in fiberboard boxes may not exceed 29 kg (64 pounds). Net weight of contents in wooden boxes, barrels or kegs may not exceed 45 kg (99 pounds).
+</FP-1>
+<FP-1>N79 Packages consisting of tightly closed metal inner packagings not over 0.5 kg (1.1 pounds) capacity each, packed in outer wooden or fiberboard boxes, or wooden barrels, are authorized and need not conform to the requirements of part 178 of this subchapter. Net weight of contents may not exceed 15 kg (33 pounds).
+</FP-1>
+<FP-1>N80 Packages consisting of one inner metal can, not over 2.5 kg (5.5 pounds) capacity, packed in an outer wooden or fiberboard box, or a wooden barrel, are authorized and need not conform to the requirements of part 178 of this subchapter.
+</FP-1>
+<FP-1>N82 See § 173.115 of this subchapter for classification criteria for flammable aerosols.
+</FP-1>
+<FP-1>N83 This material may not be transported in quantities of more than 11.5 kg (25.4 lbs) per package.
+</FP-1>
+<FP-1>N84 The maximum quantity per package is 500 g (1.1 lbs.).
+</FP-1>
+<FP-1>N85 Packagings certified at the Packing Group I performance level may not be used.
+</FP-1>
+<FP-1>N86 UN pressure receptacles made of aluminum alloy are not authorized.
+</FP-1>
+<FP-1>N87 The use of copper valves on UN pressure receptacles is prohibited.
+</FP-1>
+<FP-1>N88 Any metal part of a UN pressure receptacle in contact with the contents may not contain more than 65% copper, with a tolerance of 1%.
+</FP-1>
+<FP-1>N89 When steel UN pressure receptacles are used, only those bearing the “H” mark are authorized.
+</FP-1>
+<FP-1>N90 Metal packagings are not authorized. Packagings of other material with a small amount of metal, for example metal closures or other metal fittings such as those mentioned in part 178 of this subchapter, are not considered metal packagings. Packagings of other material constructed with a small amount of metal must be designed such that the hazardous material does not contact the metal.
+</FP-1>
+<FP-1>N91 The use of a non specification sift-proof, non-bulk, metal can with or without lid, or a non specification sift-proof, non-bulk fiber drum, with or without lid is authorized when transporting coal tar pitch compounds by motor vehicle or rail freight. The fiber drum must to be fabricated with a three ply wall, as a minimum. The coal tar pitch compound must be in a solid mass during transportation.
+</FP-1>
+<FP-1>N92 Notwithstanding the provisions of § 173.24(g) of this subchapter, packagings shall be designed and constructed to permit the release of gas or vapor to prevent a build-up of pressure that could rupture the packagings in the event of loss of stabilization.
+</FP-1>
+<FP-1>N95 UN1075, Liquefied petroleum gas and UN1978, Propane authorized for transport in DOT 4BA240 cylinders is not subject to the UN identification number and proper shipping name marking or the label requirements of this part subject to the following conditions:
+</FP-1>
+<FP1-2>a. The cylinder must be transported in a closed motor vehicle displaying FLAMMABLE GAS placards in accordance with subpart F of part 172 of this subchapter.
+</FP1-2>
+<FP1-2>b. Shipping papers at all times must reflect a correct current accounting of all cylinders both full and expended.
+</FP1-2>
+<FP1-2>c. The cylinders are collected and transported by a private or a contract carrier for reconditioning, reuse or disposal.</FP1-2></EXTRACT>

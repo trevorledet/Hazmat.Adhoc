@@ -73,32 +73,34 @@ public class HazmatItemImporter
 
         _hazmatSettings = configuration.GetSection("HazmatImporter").Get<HazmatImporterSettings>() ?? throw new ArgumentNullException("HazmatImporter settings not set in configuration");
         _title49ApiSettings = configuration.GetSection("Title49Api").Get<Title49ApiSettings>() ?? throw new ArgumentNullException("Title49Api settings not set in configuration");
-        
+
         _configuration = configuration;
     }
 
-    public async Task ImportHazmatItems()
+    public async Task ImportHazmatItemsAsync()
     {
+        const string dataFileSuffix = "HazmatItems.htm";
+
         string rawData = string.Empty;
         switch (_hazmatSettings.Mode)
         {
             case ProcessModes.Load:
             case ProcessModes.Identify:
                 // string rawData = File.ReadAllText(sourcePath);
-                rawData = await httpHazmatClient.GetHazmatSectionAsync("172.101");
+                rawData = await httpHazmatClient.GetHazmatSectionAsync(_hazmatSettings.HazmatSection);
 
                 if (string.IsNullOrEmpty(rawData))
                 {
                     _logger.LogError("No data returned from API call");
                     return;
                 }
-                File.WriteAllText($"{_title49ApiSettings.DataRoot}{_title49ApiSettings.ReportDate}.htm", rawData);
+                File.WriteAllText($"{_title49ApiSettings.DataRoot}{_title49ApiSettings.ReportDate}{dataFileSuffix}", rawData);
                 break;
             case ProcessModes.Update:
-                rawData = File.ReadAllText($"{_title49ApiSettings.DataRoot}{_title49ApiSettings.ReportDate}.htm");
+                rawData = File.ReadAllText($"{_title49ApiSettings.DataRoot}{_title49ApiSettings.ReportDate}{dataFileSuffix}");
                 if (string.IsNullOrEmpty(rawData))
                 {
-                    _logger.LogError("No data found in file {File}", $"{_title49ApiSettings.DataRoot}{_title49ApiSettings.ReportDate}.htm");
+                    _logger.LogError("No data found in file {File}", $"{_title49ApiSettings.DataRoot}{_title49ApiSettings.ReportDate}{dataFileSuffix}");
                     return;
                 }
                 break;
@@ -148,7 +150,7 @@ public class HazmatItemImporter
                 {
                     break;
                 }
-                
+
                 count++;
 
                 string row = rawData.Substring((int)currentPosition, (int)(nextPosition - currentPosition));
@@ -162,33 +164,33 @@ public class HazmatItemImporter
                 {
 
                     newHazmatItem = new HazmatItem(columns);
-                    
+
                     if (newHazmatItem.IsSeeSkip() && newHazmatItem.Class.ToString().IsNullOrEmpty() && newHazmatItem.UNId.ToString().IsNullOrEmpty() && newHazmatItem.PackageGroup.ToString().IsNullOrEmpty())
                     {
                         newHazmatItem.Class = see;
                     }
 
-                    if (newHazmatItem.Symbols.ToString().IsNullOrEmpty() && (newHazmatItem.ProperShippingNames.Length == 0 || newHazmatItem.ProperShippingNames[0].ToString().IsNullOrEmpty()) && 
-                        newHazmatItem.Class.ToString().IsNullOrEmpty() && newHazmatItem.UNId.ToString().IsNullOrEmpty() && 
+                    if (newHazmatItem.Symbols.ToString().IsNullOrEmpty() && (newHazmatItem.ProperShippingNames.Length == 0 || newHazmatItem.ProperShippingNames[0].ToString().IsNullOrEmpty()) &&
+                        newHazmatItem.Class.ToString().IsNullOrEmpty() && newHazmatItem.UNId.ToString().IsNullOrEmpty() &&
                         !newHazmatItem.PackageGroup.ToString().IsNullOrEmpty())
+                    {
+                        newHazmatItem.Symbols = prevData.Symbol;
+                        newHazmatItem.ProperShippingNames = prevData.ProperNames;
+                        newHazmatItem.Description = prevData.Description;
+                        newHazmatItem.Class = prevData.Class;
+                        newHazmatItem.UNId = prevData.Id;
+                    }
+                    else
+                    {
+                        prevData = new PrevData
                         {
-                            newHazmatItem.Symbols = prevData.Symbol;
-                            newHazmatItem.ProperShippingNames = prevData.ProperNames;
-                            newHazmatItem.Description = prevData.Description;
-                            newHazmatItem.Class = prevData.Class;
-                            newHazmatItem.UNId = prevData.Id;
-                        }
-                        else
-                        {
-                            prevData = new PrevData
-                            {
-                                Symbol = newHazmatItem.Symbols,
-                                ProperNames = newHazmatItem.ProperShippingNames,
-                                Description = newHazmatItem.Description,
-                                Class = newHazmatItem.Class,
-                                Id = newHazmatItem.UNId
-                            };
-                        }
+                            Symbol = newHazmatItem.Symbols,
+                            ProperNames = newHazmatItem.ProperShippingNames,
+                            Description = newHazmatItem.Description,
+                            Class = newHazmatItem.Class,
+                            Id = newHazmatItem.UNId
+                        };
+                    }
 
                     switch (_hazmatSettings.Mode)
                     {
@@ -219,6 +221,8 @@ public class HazmatItemImporter
             _hazmatRepository.ClearTracking();
         }
         _logger.LogWarning("Mode {mode} completed, processed {Count} hazmat items", _hazmatSettings.Mode.ToString(), count);
+
+        return;
     }
 
     private async Task IdentifyChangedItem(HazmatItem newHazmatItem)
@@ -251,18 +255,19 @@ public class HazmatItemImporter
             else
             {
                 int flag = 0;
-                existingItems.ToList().ForEach(h => {
-                        newHazmatItem.Id = h.Id;
-                        List<string> diffs = ObjectComparer.CompareProperties(newHazmatItem, h);
-                        if (diffs.Count == 0)
-                        {
-                            flag = -1;
-                        }
-                        else if (flag != -1)
-                        {
-                            flag = diffs.Count;
-                        }
-                    });
+                existingItems.ToList().ForEach(h =>
+                {
+                    newHazmatItem.Id = h.Id;
+                    List<string> diffs = ObjectComparer.CompareProperties(newHazmatItem, h);
+                    if (diffs.Count == 0)
+                    {
+                        flag = -1;
+                    }
+                    else if (flag != -1)
+                    {
+                        flag = diffs.Count;
+                    }
+                });
                 if (flag != -1)
                 {
                     _logger.LogWarning("Changed or new hazmat item found in import: {HazmatItem}", newHazmatItem.ToString());
@@ -287,7 +292,7 @@ public class HazmatItemImporter
                 _logger.LogWarning("Added hazmat item: {ID}, {UNId}, {PG}", newHazmatItem.Id, newHazmatItem.UNId, newHazmatItem.PackageGroup);
                 break;
 
-            case "U":
+            case cU:
                 try
                 {
                     if (!string.IsNullOrEmpty(columns[15]?.ToString()))

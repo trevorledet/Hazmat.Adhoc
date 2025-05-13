@@ -1,0 +1,249 @@
+IB Codes and IP Codes.</I> These provisions apply only to transportation in IBCs and Large Packagings. Table 1 authorizes IBCs for specific proper shipping names through the use of IB Codes assigned in the § 172.101 table of this subchapter. Table 2 defines IP Codes on the use of IBCs that are assigned to specific commodities in the § 172.101 Table of this subchapter. Table 3 authorizes Large Packagings for specific proper shipping names through the use of IB Codes assigned in the § 172.101 table of this subchapter. Large Packagings are authorized for the Packing Group III entries of specific proper shipping names when either special provision IB3 or IB8 is assigned to that entry in the § 172.101 Table. When no IB code is assigned in the § 172.101 Table for a specific proper shipping name, or in § 173.185 or § 173.225(e) Organic Peroxide Table for Type F organic peroxides, use of an IBC or Large Packaging for the material may be authorized when approved by the Associate Administrator. The letter “Z” shown in the marking code for composite IBCs must be replaced with a capital code letter designation found in § 178.702(a)(2) of this subchapter to specify the material used for the other packaging. Tables 1, 2, and 3 follow:</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table 1—IB Codes (IBC Codes)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">IBC code</TH>
+<TH class="center border-top-single border-bottom-single">Authorized IBCs</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">IB1</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (31A, 31B and 31N).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left"><E T="03">Additional Requirement:</E> Only liquids with a vapor pressure less than or equal to 110 kPa at 50 °C (1.1 bar at 122 °F), or 130 kPa at 55 °C (1.3 bar at 131 °F) are authorized.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB2</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (31A, 31B and 31N); Rigid plastics (31H1 and 31H2); Composite (31HZ1).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left"><E T="03">Additional Requirement:</E> Only liquids with a vapor pressure less than or equal to 110 kPa at 50 °C (1.1 bar at 122 °F), or 130 kPa at 55 °C (1.3 bar at 131 °F) are authorized.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB3</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (31A, 31B and 31N); Rigid plastics (31H1 and 31H2); Composite (31HZ1 and 31HA2, 31HB2, 31HN2, 31HD2 and 31HH2).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left"><E T="03">Additional Requirement:</E> Only liquids with a vapor pressure less than or equal to 110 kPa at 50 °C (1.1 bar at 122 °F), or 130 kPa at 55 °C (1.3 bar at 131 °F) are authorized, except for UN2672 (also see special provision IP8 in Table 2 for UN2672).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB4</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (11A, 11B, 11N, 21A, 21B, 21N, 31A, 31B and 31N).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB5</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (11A, 11B, 11N, 21A, 21B, 21N, 31A, 31B and 31N); Rigid plastics (11H1, 11H2, 21H1, 21H2, 31H1 and 31H2); Composite (11HZ1, 21HZ1 and 31HZ1).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB6</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (11A, 11B, 11N, 21A, 21B, 21N, 31A, 31B and 31N); Rigid plastics (11H1, 11H2, 21H1, 21H2, 31H1 and 31H2); Composite (11HZ1, 11HZ2, 21HZ1, 21HZ2 and 31HZ1).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left"><E T="03">Additional Requirement:</E> Composite IBCs 11HZ2 and 21HZ2 may not be used when the hazardous materials being transported may become liquid during transport.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB7</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (11A, 11B, 11N, 21A, 21B, 21N, 31A, 31B and 31N); Rigid plastics (11H1, 11H2, 21H1, 21H2, 31H1 and 31H2); Composite (11HZ1, 11HZ2, 21HZ1, 21HZ2 and 31HZ1); Wooden (11C, 11D and 11F).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left"><E T="03">Additional Requirement:</E> Liners of wooden IBCs must be sift-proof.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IB8</TD>
+<TD class="left"><E T="03">Authorized IBCs:</E> Metal (11A, 11B, 11N, 21A, 21B, 21N, 31A, 31B and 31N); Rigid plastics (11H1, 11H2, 21H1, 21H2, 31H1 and 31H2 ); Composite (11HZ1, 11HZ2, 21HZ1, 21HZ2 and 31HZ1); Fiberboard (11G); Wooden (11C, 11D and 11F); Flexible (13H1, 13H2, 13H3, 13H4, 13H5, 13L1, 13L2, 13L3, 13L4, 13M1 or 13M2).</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">IB9</TD>
+<TD class="left border-bottom-single">IBCs are only authorized if approved by the Associate Administrator.</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table 2—IP Codes</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">IP code</TH>
+<TH class="center border-top-single border-bottom-single"> </TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">IP1</TD>
+<TD class="left">IBCs must be packed in closed freight containers or a closed transport vehicle.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP2</TD>
+<TD class="left">When IBCs other than metal or rigid plastics IBCs are used, they must be offered for transportation in a closed freight container or a closed transport vehicle.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP3</TD>
+<TD class="left">Flexible IBCs must be sift-proof and water-resistant or must be fitted with a sift-proof and water-resistant liner.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP4</TD>
+<TD class="left">Flexible, fiberboard or wooden IBCs must be sift-proof and water-resistant or be fitted with a sift-proof and water-resistant liner.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP5</TD>
+<TD class="left">IBCs must have a device to allow venting. The inlet to the venting device must be located in the vapor space of the IBC under maximum filling conditions.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP6</TD>
+<TD class="left">Non-specification bulk bins are authorized.
+</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP7</TD>
+<TD class="left">For UN identification numbers 1327, 1363, 1364, 1365, 1386, 1408, 1841, 2211, 2217, 2793 and 3314, IBCs are not required to meet the IBC performance tests specified in part 178, subpart N, of this subchapter.
+</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP8</TD>
+<TD class="left">Ammonia solutions may be transported in rigid or composite plastic IBCs (31H1, 31H2 and 31HZ1) that have successfully passed, without leakage or permanent deformation, the hydrostatic test specified in § 178.814 of this subchapter at a test pressure that is not less than 1.5 times the vapor pressure of the contents at 55 °C (131 °F).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP13</TD>
+<TD class="left">Transportation by vessel in IBCs is prohibited.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP14</TD>
+<TD class="left">Air must be eliminated from the vapor space by nitrogen or other means.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP15 For UN2031 with more than 55% nitric acid, the permitted use of rigid plastic IBCs, and the inner receptacle of composite IBCs with rigid plastics, shall be two years from their date of manufacture.</TD>
+<TD class="left"></TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP19</TD>
+<TD class="left">For UN identification numbers 3531, 3532, 3533, and 3534, IBCs must be designed and constructed to permit the release of gas or vapor to prevent a build-up of pressure that could rupture the IBCs in the event of loss of stabilization.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP20</TD>
+<TD class="left">Dry sodium cyanide or potassium cyanide is also permitted in siftproof, water-resistant, fiberboard IBCs when transported in closed freight containers or transport vehicles.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">IP21</TD>
+<TD class="left">When transported by vessel, flexible, fiberboard or wooden IBCs must be sift-proof and water-resistant or be fitted with a sift-proof and water-resistant liner.</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">IP22 UN3550 may be transported in flexible IBCs (13H3 or 13H4) with sift-proof liners to prevent any egress of dust during transport.
+</TD>
+<TD class="left border-bottom-single"></TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table 3—IB Codes</P><P class="headnote">[Large packaging authorizations]</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">IB3</TH>
+<TH class="center border-top-single border-bottom-single">Authorized Large Packagings (LIQUIDS)<br></br>(PG III materials only) <sup>2</sup></TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">Inner packagings:</TD>
+<TD class="left">Large outer packagings:</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Glass 10 liter</TD>
+<TD class="left">steel (50A).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Plastics 30 liter</TD>
+<TD class="left">aluminum (50B).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Metal 40 liter</TD>
+<TD class="left">metal other than steel or aluminum (50N).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">rigid plastics (50H).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">natural wood (50C).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">plywood (50D).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">reconstituted wood (50F).</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single"> </TD>
+<TD class="left border-bottom-single primary-indent-3">rigid fiberboard (50G).</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<THEAD>
+<TR>
+<TH class="center border-bottom-single border-right-single">IB8</TH>
+<TH class="center border-bottom-single">Authorized Large Packagings (SOLIDS)<br></br>(PG III materials only) <sup>2</sup></TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">Inner packagings:</TD>
+<TD class="left">Large outer packagings:</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Glass 10 kg</TD>
+<TD class="left primary-indent-3">steel (50A).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Plastics 50 kg</TD>
+<TD class="left primary-indent-3">aluminum (50B).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Metal 50 kg</TD>
+<TD class="left primary-indent-3">metal other than steel or aluminum (50N).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Paper 50 kg</TD>
+<TD class="left primary-indent-3">flexible plastics (51H). <sup>1</sup></TD>
+</TR>
+<TR>
+<TD class="left border-right-single primary-indent-hanging-2">Fiber 50 kg</TD>
+<TD class="left primary-indent-3">rigid plastics (50H).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">natural wood (50C).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">plywood (50D).</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left primary-indent-3">reconstituted wood (50F).</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single"> </TD>
+<TD class="left border-bottom-single primary-indent-3">rigid fiberboard (50G).
+</TD>
+</TR>
+</TBODY>
+<TFOOT><TR><TD colspan="2"><sup>1</sup> Flexible plastic (51H) Large Packagings are only authorized for use with flexible inner packagings.
+</TD></TR><TR><TD colspan="2"><sup>2</sup> Except when authorized under Special Provision 41.</TD></TR></TFOOT></TABLE>
+</DIV></DIV>

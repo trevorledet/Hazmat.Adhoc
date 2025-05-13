@@ -1,0 +1,183 @@
+“T” codes.</I> (i) These provisions apply to the transportation of hazardous materials in UN portable tanks. Portable tank instructions specify the requirements applicable to a portable tank when used for the transportation of a specific hazardous material. These requirements must be met in addition to the design and construction specifications in part 178 of this subchapter. Portable tank instructions T1 through T22 specify the applicable minimum test pressure, the minimum shell thickness (in reference steel), bottom opening requirements and pressure relief requirements. Liquefied compressed gases are assigned to portable tank instruction T50. Refrigerated liquefied gases that are authorized to be transported in portable tanks are specified in tank instruction T75.</P>
+<P>(ii) The following table specifies the portable tank requirements applicable to “T” Codes T1 through T22. Column 1 specifies the “T” Code. Column 2 specifies the minimum test pressure, in bar (1 bar = 14.5 psig), at which the periodic hydrostatic testing required by § 180.605 of this subchapter must be conducted. Column 3 specifies the section reference for minimum shell thickness or, alternatively, the minimum shell thickness value. Column 4 specifies the applicability of § 178.275(g)(3) of this subchapter for the pressure relief devices. When the word “Normal” is indicated, § 178.275(g)(3) of this subchapter does not apply. Column 5 references applicable requirements for bottom openings in part 178 of this subchapter. “Prohibited” means bottom openings are prohibited, and “Prohibited for liquids” means bottom openings are authorized for solid material only. The table follows:</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+<CAPTION><P class="title">Table of Portable Tank T Codes T1-T22</P><P class="headnote">[Portable tank codes T1-T22 apply to liquid and solid hazardous materials of Classes 3 through 9 which are transported in portable tanks.]</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">Portable tank instruction<br></br>(1)</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">Minimum test pressure (bar)<br></br>(2)</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">Minimum shell thickness<br></br>(in mm-reference steel)<br></br>(<E T="03">See</E> § 178.274(d))<br></br>(3)</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">Pressure-relief requirements<br></br>(<E T="03">See</E> § 178.275(g))<br></br>(4)</TH>
+<TH class="center border-top-single border-bottom-single">Bottom opening<br></br>requirements<br></br>(<E T="03">See</E> § 178.275(d))<br></br>(5)</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">T1</TD>
+<TD class="right border-right-single">1.5</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(2)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T2</TD>
+<TD class="right border-right-single">1.5</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T3</TD>
+<TD class="right border-right-single">2.65</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(2)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T4</TD>
+<TD class="right border-right-single">2.65</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T5</TD>
+<TD class="right border-right-single">2.65</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T6</TD>
+<TD class="right border-right-single">4</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(2)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T7</TD>
+<TD class="right border-right-single">4</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T8</TD>
+<TD class="right border-right-single">4</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T9</TD>
+<TD class="right border-right-single">4</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">Prohibited for liquids.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T10</TD>
+<TD class="right border-right-single">4</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T11</TD>
+<TD class="right border-right-single">6</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T12</TD>
+<TD class="right border-right-single">6</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T13</TD>
+<TD class="right border-right-single">6</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T14</TD>
+<TD class="right border-right-single">6</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T15</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T16</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">§ 178.274(d)(2)</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T17</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T18</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">§ 178.275(d)(3)</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T19</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">6 mm</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T20</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">8 mm</TD>
+<TD class="left border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left">Prohibited</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">T21</TD>
+<TD class="right border-right-single">10</TD>
+<TD class="left border-right-single">10 mm</TD>
+<TD class="left border-right-single">Normal</TD>
+<TD class="left">Prohibited for liquids. § 178.275(d)(2).</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">T22</TD>
+<TD class="right border-bottom-single border-right-single">10</TD>
+<TD class="left border-bottom-single border-right-single">10 mm</TD>
+<TD class="left border-bottom-single border-right-single">§ 178.275(g)(3)</TD>
+<TD class="left border-bottom-single">Prohibited</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>(iii) T50 When portable tank instruction T50 is indicated in Column (7) of the § 172.101 Hazardous Materials Table, the applicable liquefied compressed gas and chemical under pressure descriptions are authorized to be transported in portable tanks in accordance with the requirements of § 173.313 of this subchapter.</P>
+<P>(iv) <I>T75.</I> When portable tank instruction T75 is referenced in Column (7) of the § 172.101 Table, the applicable refrigerated liquefied gases are authorized to be transported in portable tanks in accordance with the requirements of § 178.277 of this subchapter.</P>
+<P>(v) <I>UN and IM portable tank codes/special provisions.</I> When a specific portable tank instruction is specified by a “T” Code in Column (7) of the § 172.101 Table for a specific hazardous material, a specification portable tank conforming to an alternative tank instruction may be used if:</P>
+<P>(A) The alternative portable tank has a higher or equivalent test pressure (for example, 4 bar when 2.65 bar is specified);</P>
+<P>(B) The alternative portable tank has greater or equivalent wall thickness (for example, 10 mm when 6 mm is specified);</P>
+<P>(C) The alternative portable tank has a pressure relief device as specified in the “T” Code. If a frangible disc is required in series with the reclosing pressure relief device for the specified portable tank, the alternative portable tank must be fitted with a frangible disc in series with the reclosing pressure relief device; and</P>
+<P>(D) With regard to bottom openings—</P>
+<P>(<I>1</I>) When two effective means are specified, the alternative portable tank is fitted with bottom openings having two or three effective means of closure or no bottom openings; or</P>
+<P>(<I>2</I>) When three effective means are specified, the portable tank has no bottom openings or three effective means of closure; or</P>
+<P>(<I>3</I>) When no bottom openings are authorized, the alternative portable tank must not have bottom openings.</P>
+<P>(vi) Except when an organic peroxide is authorized under § 173.225(g), if a hazardous material is not assigned a portable tank “T” Code, the hazardous material may not be transported in a portable tank unless approved by the Associate Administrator.</P>

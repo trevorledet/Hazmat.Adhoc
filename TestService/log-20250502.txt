@@ -1,0 +1,33 @@
+2025-05-02T14:20:59.9765901-05:00  [WRN] Worker running at: 05/02/2025 14:20:59 -05:00 (73d86d1a)
+2025-05-02T14:21:26.0723315-05:00  [INF] Start processing HTTP request "GET" "https://www.ecfr.gov/api/versioner/v1/full/2025-04-17/title-49.xml?subtitle=B&chapter=I&subchapter=C&part=172&subpart=B&section=172.102" (338f1c77)
+2025-05-02T14:21:26.0742678-05:00  [INF] Sending HTTP request "GET" "https://www.ecfr.gov/api/versioner/v1/full/2025-04-17/title-49.xml?subtitle=B&chapter=I&subchapter=C&part=172&subpart=B&section=172.102" (2e7ac211)
+2025-05-02T14:21:26.1474136-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-05-02T14:21:26.1475265-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-05-02T14:21:26.1475609-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-05-02T14:21:27.2803764-05:00  [INF] Received HTTP response headers after 1203.8494ms - 200 (f0742c1f)
+2025-05-02T14:21:27.2809625-05:00  [INF] End processing HTTP request after 1216.8945ms - 200 (7656b38e)
+2025-05-02T14:22:14.9519127-05:00  [WRN] Mode "Load" Starting (832b79d6)
+2025-05-02T14:22:20.7364939-05:00  [WRN] Worker running at: 05/02/2025 14:22:20 -05:00 (73d86d1a)
+2025-05-02T17:04:56.5403288-05:00  [WRN] Worker running at: 05/02/2025 17:04:56 -05:00 (73d86d1a)
+2025-05-02T17:05:12.3835207-05:00  [INF] Start processing HTTP request "GET" "https://www.ecfr.gov/api/versioner/v1/full/2025-04-17/title-49.xml?subtitle=B&chapter=I&subchapter=C&part=172&subpart=B&section=172.102" (338f1c77)
+2025-05-02T17:05:12.3856439-05:00  [INF] Sending HTTP request "GET" "https://www.ecfr.gov/api/versioner/v1/full/2025-04-17/title-49.xml?subtitle=B&chapter=I&subchapter=C&part=172&subpart=B&section=172.102" (2e7ac211)
+2025-05-02T17:05:12.4634744-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-05-02T17:05:12.4635667-05:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-05-02T17:05:12.4635941-05:00  [INF] Content root path: "D:\Documents\Hazmat.Adhoc\TestService" (cc26f24e)
+2025-05-02T17:05:14.0107270-05:00  [INF] Received HTTP response headers after 1616.5192ms - 200 (f0742c1f)
+2025-05-02T17:05:14.0120117-05:00  [INF] End processing HTTP request after 1637.9439ms - 200 (7656b38e)
+2025-05-02T17:06:30.2057237-05:00  [ERR] BackgroundService failed (32f7385d)
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Hazmat.Utilities.SpecialProvisionImporter.PreprocessData(String rawData) in D:\Documents\Hazmat.Adhoc\Hazmat.Utilities\SpecialProvisionImporter.cs:line 99
+   at Hazmat.Utilities.SpecialProvisionImporter.ImportSpecialProvisionsAsync() in D:\Documents\Hazmat.Adhoc\Hazmat.Utilities\SpecialProvisionImporter.cs:line 50
+   at TestService.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Documents\Hazmat.Adhoc\TestService\Worker.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-05-02T17:06:30.2066318-05:00  [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted. (991aeac8)
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Hazmat.Utilities.SpecialProvisionImporter.PreprocessData(String rawData) in D:\Documents\Hazmat.Adhoc\Hazmat.Utilities\SpecialProvisionImporter.cs:line 99
+   at Hazmat.Utilities.SpecialProvisionImporter.ImportSpecialProvisionsAsync() in D:\Documents\Hazmat.Adhoc\Hazmat.Utilities\SpecialProvisionImporter.cs:line 50
+   at TestService.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Documents\Hazmat.Adhoc\TestService\Worker.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-05-02T17:06:30.2070118-05:00  [INF] Application is shutting down... (90f52c38)

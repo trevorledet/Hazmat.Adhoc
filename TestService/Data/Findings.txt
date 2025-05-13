@@ -1,5 +1,0 @@
-Anomalises
-
-1. Forbidden items all have same key, Blank UN and Package Id
-2. There are same UN/Package Groups with different classes.
-3. No Limit for Quantity value will be represented by double.MaxValue
